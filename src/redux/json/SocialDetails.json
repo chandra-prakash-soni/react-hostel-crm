@@ -1,0 +1,13 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Dimensions",
+  "records": {
+    "id": "",
+    "name": "Social",
+    "description": "Social description"
+  },
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 5
+}

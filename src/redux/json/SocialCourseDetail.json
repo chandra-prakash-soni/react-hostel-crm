@@ -1,0 +1,354 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "ActivityContentResponse",
+  "records": [
+    {
+      "id": "",
+      "dimName": "Social",
+      "keyName": "Diversity",
+      "courseName": "Intersectionality",
+      "activityName": "Overview of Intersectionality",
+      "sceneName": "Scene First",
+      "series": {
+        "id": "",
+        "name": "",
+        "activity_id": "",
+        "recap": "",
+        "charImage": "https://vicky-dev.s3.amazonaws.com/diversity-101.jpg",
+        "charDesc": "Engaging character description...",
+        "references": "This",
+        "practice": {},
+        "quiz": {},
+        "scenes": [
+          {
+            "id": "1",
+            "name": "Welcome to Green Hill Middle School",
+            "sequence": "1",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene1.jpg",
+            "imagedesc": "Image Description 1",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Time to enter a story about Microaggressions!",
+            "application": "<h5><span style='font-size: 15px;'>Have you ever witnessed someone experiencing a microaggression? </span></h5> <p style='text-align:justify;'><span style='font-size: 15px;'>…Probably. Microaggressions are small hurtful actions that show a lack of understanding and/or respect for an identity and are actually a form of prejudice. However, the person making a microaggression is often unaware of what they are doing. One way this occurs is through tokenism which is when someone with a minority identity is made to represent all people who share the same identity. We already know that two people with the same identity will have very different experiences. So when someone is tokenized, they are put in an impossible position where they are forced to explain or defend what being a particular identity is like for a large group of people. Carrying this burden can lead to embarrassment, frustration, anxiety, and other unfair experiences.</span></p> <p style='text-align:justify;'></p> <p><span style='font-size: 15px;'>Now that you’ve met the characters, and know a little bit about microaggressions, time to enter their reality.</span></p>",
+            "kc": []
+          },
+          {
+            "id": "2",
+            "name": "An Unexpected Question",
+            "sequence": "2",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene2.jpg",
+            "imagedesc": "Image Description 2",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What did Ms. Jones do?",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "She tokenized Shauna",
+                    "help": "Nice work! She was putting Shauna on the spot by asking her what it was like being biracial in America in front of the entire class. Although no one likes being put on the spot, because Shauna is one of the few biracial students, Ms. Jones asked her this question, assuming she could speak to many different people's experiences. This could make Shauna feel like she needs to be a spokeswoman for an entire group of people. This puts a lot of pressure on Shauna and forces her into an impossible position, as \"biracial women in America\" is a huge group with many different experiences. She was putting Shauna on the spot by asking her what it was like being biracial in America in front of the entire class. This could put a lot of pressure on Shauna as she feels like she needs to be a spokeswoman for an entire group of people.",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "She tokenized the class",
+                    "help": "This is not correct, as she did not pose the question to the whole class, nor was the whole class composed of biracial students. Try again!",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "She was helping Shauna share her experiences as a biracial student",
+                    "help": "This is not correct. Although Ms. Jones may have had this intention, by putting Shauan on the spot, it actually put her in a position that made it more difficult to share her experiences with the class.\u00a0 Try again!",
+                    "isCorrect": true,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "What could Ms. Jones do differently?",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "Ms. Jones could have posed the question to the entire class, asking what they thought some of the challenges facing biracial students in America might be?",
+                    "help": "This is not a bad answer, and might be the right one depending on the class. If the class did not feel comfortable expressing feelings with one another, this type of question might have been better as it was more about general statements and facts. Try again! 2",
+                    "isCorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "She could not ask any questions of the students",
+                    "help": "We wouldn't advise Ms. Jones to go with this answer, it\u2019s important to have conversations about difficult topics. They only become less difficult when we talk about them. Try again!",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "She could ask the class if anyone wanted to share their experiences of being a racial minority or offer some of the challenges students in racial minorities might face.",
+                    "help": "In this way, Ms. Jones is asking individualized questions about experiences while not putting anyone on the spot. When talking about these types of topics it is important to allow people to make their own decision about when/where they want to share their personal story.",
+                    "isCorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "name": "Thinking about Shauna",
+            "sequence": "3",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene3.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What could Shauna have been feeling at that moment?",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "Shauna could have been feeling embarrassed, confused, and anxious.",
+                    "help": "This is very true, especially given her reaction to the teacher. There might be an even better answer here though. Try again! 2",
+                    "isCorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "Shauna may have been feeling excited to answer and share with the class.",
+                    "help": "Based on Shauna\u2019s response to Ms. Jones, it does not appear that she was feeling good about answering the question. Try again!",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "Shauna could have been feeling many things at that moment, but some might have included feeling embarrassed, confused, anxious,\u00a0 and angry.",
+                    "help": "We all have a range of emotions coursing through us at any given time. It is likely that Shauna was experiencing a range of emotions, some of which may not have been clear, but many of which were not comfortable.",
+                    "isCorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "If Ms.Jones realized what she did in the moment, what could she have done?",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "She could have realized her mistake, apologized to Shauna and the class, and maybe made a joke about herself speaking before thinking when she gets excited about a topic.",
+                    "help": "It would be important for Ms. Jones to acknowledge her mistake, apologize, and then turn the class's focus from Shauna (who was uncomfortable for being put on the spot) to herself. One way she could do this is through using humor.",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "She could apologize profusely to Shauna multiple times and assure the class that this won't happen ever again.",
+                    "help": "Although Ms. Jones might feel very poorly about what she did, she should only apologize once. The more she apologizes, the more she is asking others to take care of her feelings instead of Shauna\u2019s. She shouldn't guarantee this won't happen again but instead, vow to try harder to prevent it. Try again. 3",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "She could do nothing.",
+                    "help": "While Ms. Jones could wait to better understand what happened and reflect on it before acting, we advise trying to act in the moment. Taking action immediately to fix her mistake could help Shauna feel better about the situation for the rest of class. Try again. 2",
+                    "isCorrect": true,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Shauna’s Reaction",
+            "sequence": "4",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene4.jpg",
+            "imagedesc": "Image Description 4",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What do you say to Shauna?",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "I don\u2019t know how you feel, but I'd be upset if that happened to me. How could you have an answer ready to summarize everything all biracial girls deal with?",
+                    "help": "Shauna looks down at her cellphone and says \u201cAnyway\u2026I gotta head to my next class.\u201d",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "OK, I\u2019m here if you need me.",
+                    "help": "Shauna looks down at her cellphone and says \u201cAnyway\u2026I gotta head to my next class.\u201d",
+                    "isCorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "I\u2019m sorry, you\u2019re right it's not a big deal.",
+                    "help": "Shauna begins to get teary eyed and runs down the hall.",
+                    "isCorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "name": "Offering Help",
+            "sequence": "5",
+            "points": "",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene5.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What do you do next?",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "question": "Just leave it be, you don\u2019t want to push or make thing worse",
+                    "help": "This wouldn\u2019t be what we recommend, though letting it go may be right for you at the given moment due to your own stress. If and when you feel up to it, try to help by sharing Shauna's emotional reality through a discussion of how she's feeling about the situation.",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "question": "Decide to talk to your sister, who always has good advice about things, so you can work through your thoughts and better grasp your feelings.",
+                    "help": "Talking with someone you trust outside of the situation can help you process and feel more sure about it. Having the opportunity to say something aloud helps us think about it differently. It helps us organize our thoughts, clarify what we mean, and share the parts causing us confusion.",
+                    "isCorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "question": "Decide to go talk with Shauna about it.",
+                    "help": "You eventually call Shauna. However, before you call, you continue to worry about it. This answer is okay but could make things worse. You could overthink things and overwhelm Shauna when you do approach her. Helpers need to get support as well so they can continue to help. \u00a0Go back and try again 2",
+                    "isCorrect": true,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "name": "A Helper Getting Help",
+            "sequence": "6",
+            "points": "",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene6.jpg",
+            "imagedesc": "Image Description 6",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "The Importance of Getting Support",
+            "application": "<p style='text-align:justify;'><span style='font-size: 15px;'>As a friend and someone who witnessed something wrong happen, it’s great that you want to help Shauna. Worrying alone about the problem could lead you to overthink things and overwhelm Shauna when you reach out to her. Informing an administrator could further take power from Shauna and complicate the situation.</span></p> <p style='text-align:justify;'><span style='font-size: 15px;'>Helpers need support, too, and talking with someone you trust outside of the situation can help you feel better and think things through more thoroughly. Having the opportunity to say something aloud helps us think about it differently. It helps us organize our thoughts, clarify what we mean, and share the parts causing us confusion.</span></p> <p style='text-align:justify;'><span style='font-size: 15px;'>One way of helping someone like Shauna, when you are ready, is to share their emotional reality. You can do this by empathizing with what it must feel like to be in their situation.</span></p>",
+            "kc": []
+          },
+          {
+            "id": "7",
+            "name": "Action!",
+            "sequence": "7",
+            "points": "",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene7.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "The Power of Caring",
+            "application": "<p><span style='font-size: 15px;text-align:justify'>In this situation, Shauna felt grateful that you were able to understand how it felt for her to be tokenized because of her race. It can feel relieving to her that she does not have to explain this to you and that she is not alone in seeing what happened. She also was able to tell you what she needed from you, and you were there to listen and follow her lead. In this way, Shauna knew she had your support but was empowered to handle the situation in the way that felt best for her. One of the reasons Ms. Jones’ behavior was tokenizing was because it </span></p><p><span style='font-size: 15px;text-align:justify'>disempowered Shauna; she was not given a choice to tell her own story but instead was being called on to tell the story of others. By deciding what course of action she wants to take next, Shauna is reclaiming power. </span></p> ",
+            "kc": []
+          },
+          {
+            "id": "8",
+            "name": "Weekly Exercise",
+            "sequence": "8",
+            "points": "",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/week1scene8.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "In this situation, Shauna felt grateful that you were able to understand how it felt for her to be tokenized because of her race. It can feel relieving to her that she does not have to explain this to you and that she is not alone in seeing what happened. She also was able to tell you what she needed from you, and you were there to listen and follow her lead. In this way, Shauna knew she had your support but was empowered to handle the situation in the way that felt best for her. One of the reasons Ms. Jones’ behavior was tokenizing was because it disempowered Shauna; she was not given a choice to tell her own story but instead was being called on to tell the story of others. By deciding what course of action she wants to take next, Shauna is reclaiming power. ",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "Take this space to tell us about what happened. Which friend did you choose to speak with? What happened to them? What did it feel like for you to speak with your friend about microaggressions? How did you feel it felt for them? Did anything surprise you?",
+                "points": 30,
+                "type": "COMMENTQ",
+                "attempted": false,
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "answer": "",
+                    "help": ""
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "What was it like using the skills you learned this week? What did you feel you did well? What would you like to do better next time?",
+                "points": 30,
+                "attempted": false,
+                "type": "COMMENTQ",
+                "invalidAttempt": 0,
+                "options": [
+                  {
+                    "answer": "",
+                    "help": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

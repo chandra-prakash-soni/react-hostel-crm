@@ -1,0 +1,1403 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "934d922d-014e-40c4-a460-4a93718fdd08",
+      "name": "Social",
+      "description": "Growth along the social dimension is vital for your child's well-being and success in all aspects of their life. It encourages them to cooperate, connect with others, resolve conflict, contribute to communities, and make constructive choices and responsible decisions.",
+      "alert": "some text here",
+      "progress": 74,
+      "sequence": 3,
+      "skills": [
+        {
+          "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+          "name": "Conflict Resolution",
+          "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+          "progress": 11,
+          "sequence": 1,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "93261f44-5046-4075-8a83-326cb94a749e",
+              "name": "Understanding Conflict",
+              "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 25,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+                  "name": "Conflict Resolution",
+                  "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+                  "progress": 11,
+                  "sequence": 1,
+                  "courses": [
+                    {
+                      "id": "93261f44-5046-4075-8a83-326cb94a749e",
+                      "name": "Understanding Conflict",
+                      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 25,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+                      "name": "English",
+                      "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+                      "progress": 22,
+                      "sequence": 2,
+                      "courses": [
+                        {
+                          "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+                          "name": "English",
+                          "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+                          "isEnrolled": true,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 31,
+                          "sequence": 1,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+                      "name": "English",
+                      "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+                      "progress": 23,
+                      "sequence": 2,
+                      "courses": [
+                        {
+                          "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+                          "name": "English",
+                          "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+                          "isEnrolled": true,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 31,
+                          "sequence": 1,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+                      "name": "English",
+                      "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+                      "progress": 24,
+                      "sequence": 2,
+                      "courses": [
+                        {
+                          "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+                          "name": "English",
+                          "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+                          "isEnrolled": true,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 31,
+                          "sequence": 1,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+                      "name": "English",
+                      "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+                      "progress": 25,
+                      "sequence": 2,
+                      "courses": [
+                        {
+                          "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+                          "name": "English",
+                          "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+                          "isEnrolled": true,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 31,
+                          "sequence": 1,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+                      "name": "English",
+                      "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+                      "progress": 26,
+                      "sequence": 2,
+                      "courses": [
+                        {
+                          "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+                          "name": "English",
+                          "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+                          "isEnrolled": true,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 31,
+                          "sequence": 1,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        },
+                        {
+                          "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+                          "name": "Close Reading I",
+                          "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+                          "isEnrolled": false,
+                          "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+                          "timing": 0,
+                          "completion": 0,
+                          "proficiency": 0,
+                          "progress": 25,
+                          "sequence": 2,
+                          "activities": [
+                            {
+                              "id": "activityId",
+                              "name": "Section 1",
+                              "progress": 11
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 2",
+                              "progress": 47
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 3",
+                              "progress": 65
+                            },
+                            {
+                              "id": "activityId",
+                              "name": "Section 4",
+                              "progress": 21
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "f0a356fe-0042-4f75-b778-05901dc7fbf2",
+                  "name": "Physical",
+                  "description": "The development of the physical dimension supports your child in achieving their physical growth milestones, developing healthy habits, boosting attention and memory, building endurance, and improving long-term health. Consequently, they can realize their human potential and better manage the physiological and biological changes they experience during various stages of their life.",
+                  "alert": "Some Alert Text",
+                  "progress": 11,
+                  "sequence": 2,
+                  "skills": [
+                    {
+                      "id": "5b351c34-851e-4094-94b0-61983611ed1d",
+                      "name": "Gross & Fine Motor Skills",
+                      "description": "Gross motor skills relate to muscle movements that include sitting, crawling, walking, and running. Fine motor skills involve smaller movements that help a child do things like draw, write, and grasp objects. A child without these physical skills will have trouble engaging in many common everyday activities, whether playing sports or coloring. By developing these skills, a child can learn alongside their friends and participate with their peer group.",
+                      "progress": 51,
+                      "sequence": 3,
+                      "courses": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+                  "name": "Conflict Resolution",
+                  "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+                  "progress": 12,
+                  "sequence": 1,
+                  "courses": [
+                    {
+                      "id": "93261f44-5046-4075-8a83-326cb94a749e",
+                      "name": "Understanding Conflict",
+                      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 25,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+                  "name": "Conflict Resolution",
+                  "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+                  "progress": 13,
+                  "sequence": 1,
+                  "courses": [
+                    {
+                      "id": "93261f44-5046-4075-8a83-326cb94a749e",
+                      "name": "Understanding Conflict",
+                      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 25,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+                  "name": "Conflict Resolution",
+                  "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+                  "progress": 14,
+                  "sequence": 1,
+                  "courses": [
+                    {
+                      "id": "93261f44-5046-4075-8a83-326cb94a749e",
+                      "name": "Understanding Conflict",
+                      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 25,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+                  "name": "Conflict Resolution",
+                  "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+                  "progress": 15,
+                  "sequence": 1,
+                  "courses": [
+                    {
+                      "id": "93261f44-5046-4075-8a83-326cb94a749e",
+                      "name": "Understanding Conflict",
+                      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Conflict+Resolution_Course+Icon.JPG",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 25,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "f83a9d8d-c582-4a38-bcc8-cd542a9400b7",
+              "name": "Emotional",
+              "description": "From developing a strong sense of self, building an awareness of their emotions, expressing and managing their feelings, to developing coping mechanisms to deal with triggers, with the development of their emotional dimension, your child can grow into a balanced individual capable of navigating the uncertainties of life.",
+              "alert": "Some Alert Text",
+              "progress": 11,
+              "sequence": 3,
+              "skills": [
+                {
+                  "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+                  "name": "Self-Awareness",
+                  "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+                  "progress": 25,
+                  "sequence": 3,
+                  "courses": [
+                    {
+                      "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+                      "name": "Goals - Just the Basics",
+                      "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 11,
+                      "sequence": 2,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+                  "name": "Self-Awareness",
+                  "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+                  "progress": 26,
+                  "sequence": 3,
+                  "courses": [
+                    {
+                      "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+                      "name": "Goals - Just the Basics",
+                      "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 11,
+                      "sequence": 2,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+                  "name": "Self-Awareness",
+                  "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+                  "progress": 27,
+                  "sequence": 3,
+                  "courses": [
+                    {
+                      "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+                      "name": "Goals - Just the Basics",
+                      "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 11,
+                      "sequence": 2,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+                  "name": "Self-Awareness",
+                  "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+                  "progress": 28,
+                  "sequence": 3,
+                  "courses": [
+                    {
+                      "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+                      "name": "Goals - Just the Basics",
+                      "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 11,
+                      "sequence": 2,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+                  "name": "Self-Awareness",
+                  "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+                  "progress": 29,
+                  "sequence": 3,
+                  "courses": [
+                    {
+                      "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+                      "name": "Goals - Just the Basics",
+                      "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 11,
+                      "sequence": 2,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "d74e3448-5442-4ab2-b492-de6f64b53d2b",
+              "name": "Spiritual",
+              "description": "By developing their spiritual dimension, your child can find their purpose in life, think and act ethically, feel a sense of connection and spiritual fulfillment, live authentically, and cultivate gratitude to cope better with life's stresses and safeguard their mental health from an early age.",
+              "alert": "Some Alert Text",
+              "progress": 11,
+              "sequence": 5,
+              "skills": [
+                {
+                  "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+                  "name": "Compassion",
+                  "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+                  "progress": 42,
+                  "sequence": 2,
+                  "courses": [
+                    {
+                      "id": "91907581-de45-4b07-b060-a3d45419c52c",
+                      "name": "Cultivating Compassion: Building Empathy",
+                      "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 65,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+                  "name": "Compassion",
+                  "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+                  "progress": 43,
+                  "sequence": 2,
+                  "courses": [
+                    {
+                      "id": "91907581-de45-4b07-b060-a3d45419c52c",
+                      "name": "Cultivating Compassion: Building Empathy",
+                      "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 65,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+                  "name": "Compassion",
+                  "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+                  "progress": 44,
+                  "sequence": 2,
+                  "courses": [
+                    {
+                      "id": "91907581-de45-4b07-b060-a3d45419c52c",
+                      "name": "Cultivating Compassion: Building Empathy",
+                      "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 65,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+                  "name": "Compassion",
+                  "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+                  "progress": 45,
+                  "sequence": 2,
+                  "courses": [
+                    {
+                      "id": "91907581-de45-4b07-b060-a3d45419c52c",
+                      "name": "Cultivating Compassion: Building Empathy",
+                      "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 65,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+                  "name": "Compassion",
+                  "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+                  "progress": 46,
+                  "sequence": 2,
+                  "courses": [
+                    {
+                      "id": "91907581-de45-4b07-b060-a3d45419c52c",
+                      "name": "Cultivating Compassion: Building Empathy",
+                      "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+                      "isEnrolled": false,
+                      "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+                      "timing": 0,
+                      "completion": 0,
+                      "proficiency": 0,
+                      "progress": 65,
+                      "sequence": 1,
+                      "activities": [
+                        {
+                          "id": "activityId",
+                          "name": "Section 1",
+                          "progress": 11
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 2",
+                          "progress": 47
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 3",
+                          "progress": 65
+                        },
+                        {
+                          "id": "activityId",
+                          "name": "Section 4",
+                          "progress": 21
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "03060552-71ae-4ba4-89bc-6784c4b428c7",
+              "name": "Intellectual",
+              "description": "The development of the intellectual dimension facilitates the building and expansion of your child's cognitive processes. This includes their ability to analyze and evaluate information in a meaningful way, build a knowledge base, think abstractly and rationally, acquire language skills, pursue academics, learn art, and more.",
+              "alert": "Some Alert Text",
+              "progress": 11,
+              "sequence": 1,
+              "skills": [
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f83a9d8d-c582-4a38-bcc8-cd542a9400b7",
+      "name": "Emotional",
+      "description": "From developing a strong sense of self, building an awareness of their emotions, expressing and managing their feelings, to developing coping mechanisms to deal with triggers, with the development of their emotional dimension, your child can grow into a balanced individual capable of navigating the uncertainties of life.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 3,
+      "skills": [
+        {
+          "id": "6eeab5ac-9db3-4f6f-af12-def8eecc0785",
+          "name": "Self-Awareness",
+          "description": "<p><strong>Does your child express any anxiety or lack of confidence when it comes to math? Have you noticed any difficulties or frustrations your child experiences when working with numbers and arithmetic?</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Math is a skill that falls under the dimension of Intellectual Education.</p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>Learn to recognize impulsive behavior.</li>\r\n<li>Identify situations that trigger impulsive behavior.</li>\r\n<li>Consider the effects of impulsive behavior on yourself and others.</li>\r\n<li>Investigate what is happening in the brain and body of an impulsive person. And finally,</li>\r\n<li>You will try some exercises that help to control impulsive behavior.</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p>Math provides a firm foundation for problem-solving, critical reasoning, and logical thinking. An education in math encompasses numbers, arithmetic, algebra, geometry, and statistics and can help foster abilities such as that of interpreting data, solving complex problems, and making analytical decisions. Math develops precision, attention to detail, and perseverance. It is integral to daily life, from managing finances to pursuing STEM careers. Understanding the foundations of Math and its practical applications is one of the many aspects to Vicky&rsquo;s educational approach, preparing your child for the complexities and challenges they may encounter in their future endeavors.</p>",
+          "progress": 25,
+          "sequence": 3,
+          "courses": [
+            {
+              "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+              "name": "Goals - Just the Basics",
+              "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 11,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "activityId",
+                  "name": "Section 1",
+                  "progress": 11
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 2",
+                  "progress": 47
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 3",
+                  "progress": 65
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d74e3448-5442-4ab2-b492-de6f64b53d2b",
+      "name": "Spiritual",
+      "description": "By developing their spiritual dimension, your child can find their purpose in life, think and act ethically, feel a sense of connection and spiritual fulfillment, live authentically, and cultivate gratitude to cope better with life's stresses and safeguard their mental health from an early age.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 5,
+      "skills": [
+        {
+          "id": "1ba176a1-59d6-4093-b76d-c622e7167ce5",
+          "name": "Compassion",
+          "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+          "progress": 42,
+          "sequence": 2,
+          "courses": [
+            {
+              "id": "91907581-de45-4b07-b060-a3d45419c52c",
+              "name": "Cultivating Compassion: Building Empathy",
+              "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 65,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "activityId",
+                  "name": "Section 1",
+                  "progress": 11
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 2",
+                  "progress": 47
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 3",
+                  "progress": 65
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03060552-71ae-4ba4-89bc-6784c4b428c7",
+      "name": "Intellectual",
+      "description": "The development of the intellectual dimension facilitates the building and expansion of your child's cognitive processes. This includes their ability to analyze and evaluate information in a meaningful way, build a knowledge base, think abstractly and rationally, acquire language skills, pursue academics, learn art, and more.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 1,
+      "skills": [
+        {
+          "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+          "name": "English",
+          "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+          "progress": 21,
+          "sequence": 2,
+          "courses": [
+            {
+              "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+              "name": "English",
+              "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "activityId",
+                  "name": "Section 1",
+                  "progress": 11
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 2",
+                  "progress": 47
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 3",
+                  "progress": 65
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            },
+            {
+              "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+              "name": "Close Reading I",
+              "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Close+Reading+I_Icon.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 25,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "activityId",
+                  "name": "Section 1",
+                  "progress": 11
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 2",
+                  "progress": 47
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 3",
+                  "progress": 65
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0a356fe-0042-4f75-b778-05901dc7fbf2",
+      "name": "Physical",
+      "description": "The development of the physical dimension supports your child in achieving their physical growth milestones, developing healthy habits, boosting attention and memory, building endurance, and improving long-term health. Consequently, they can realize their human potential and better manage the physiological and biological changes they experience during various stages of their life.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 2,
+      "skills": [
+        {
+          "id": "5b351c34-851e-4094-94b0-61983611ed1d",
+          "name": "Gross & Fine Motor Skills",
+          "description": "Gross motor skills relate to muscle movements that include sitting, crawling, walking, and running. Fine motor skills involve smaller movements that help a child do things like draw, write, and grasp objects. A child without these physical skills will have trouble engaging in many common everyday activities, whether playing sports or coloring. By developing these skills, a child can learn alongside their friends and participate with their peer group.",
+          "progress": 51,
+          "sequence": 3,
+          "courses": [
+            {
+              "id": "132fa2f8-c8c3-46e7-8c8f-d1cfd5582494",
+              "name": "Body Flow",
+              "description": "Students will have an introductory class for body movements and posture. This course is more about learning to move fluidly from sitting to standing positions with awareness, intention, and ease. Body flow refers to the fluidity of moving while still feeling the body’s pulls and pushes. Finding the low resistance route for moving and working with the body’s current ability. Having fluidity for movement(s) build on these foundational practices.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Body_Flow_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 11,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "activityId",
+                  "name": "Section 1",
+                  "progress": 11
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 2",
+                  "progress": 47
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 3",
+                  "progress": 65
+                },
+                {
+                  "id": "activityId",
+                  "name": "Section 4",
+                  "progress": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

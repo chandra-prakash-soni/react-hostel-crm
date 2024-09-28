@@ -1,0 +1,311 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "934d922d-014e-40c4-a460-4a93718fdd08",
+      "user_id": "0a793b65-b176-4ec2-b721-ede3458d8778",
+      "name": "Social",
+      "description": "Growth along the social dimension is vital for your child's well-being and success in all aspects of their life. It encourages them to cooperate, connect with others, resolve conflict, contribute to communities, and make constructive choices and responsible decisions.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 3,
+      "skills": [
+        {
+          "id": "de8a55be-7c1a-4684-856f-1592077bd562",
+          "name": "Effective Communication",
+          "description": "The ability to share their point of view and understand the perspective of others is the key to effective communication in a child. Without this ability, they will struggle to express themselves clearly and build healthy, authentic relationships with others. Communicating in a clear, meaningful way will enable a child to pick up on social cues and gain an understanding of the world around them.",
+          "progress": 25,
+          "sequence": 1,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "117d52b7-857a-4a3a-bcba-537980c9bcc7",
+              "name": "Communication Climb",
+              "description": "Grab your hiking boots and trail mix! Franki, a young nature enthusiast, is ready to navigate the world of communication. This course offers learners an opportunity to understand different types of communication and how certain settings require specific skills. Additionally, as learners accompany Franki on his adventure, they’ll meet a variety of people who will help him explore the impact of communication, the significance of empathy and assertiveness, as well as how to navigate communication challenges. Finally, since Franki is a digital native, he and his fellow learners will also have a chance to enhance their understanding of virtual communication. Let’s climb!",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 20,
+              "completion": 40,
+              "progress": 25,
+              "proficiency": 50,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "5d7e6314-9d47-4e6b-b206-f35b47459f8c",
+                  "name": "Communication Challenges",
+                  "progress": 22
+                },
+                {
+                  "id": "4c3d1300-955b-4f02-8388-2d3f22f93e60",
+                  "name": "Language and Communication",
+                  "progress": 12
+                },
+                {
+                  "id": "9b100698-d4f9-4929-8a14-21d170ddc36f",
+                  "name": "Effective Communication Essentials",
+                  "progress": 16
+                },
+                {
+                  "id": "6fa977f1-84e8-4062-9641-3709c10d0f6c",
+                  "name": "Digital Citizenship and Communication",
+                  "progress": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bb2e1504-9af2-4452-8079-1b0f547134d6",
+          "name": "Empathy",
+          "description": "A key social skill, empathy is what makes it possible for a child to understand and share the feelings of another person. \r\nWithout this skill, a child may find it difficult to see another’s perspective and will struggle to build healthy, lasting relationships. \r\nBy focusing on empathy, holistic growth enables children to interact with others and engage with a different perspective in a more meaningful way.",
+          "progress": 25,
+          "sequence": 7,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "63ffcdfe-37a7-4f7d-b1a5-2c5a17c700c5",
+          "name": "Conflict Resolution",
+          "description": "By understanding feelings and being able to express them in an effective, respectful manner, a child can deal with disagreements, miscommunications, and conflicts. A child who does not have conflict resolution skills may struggle to work well with others, creating discord at home and among their fellow students. Conflict and disagreements are a part of life, and the development of this skill can help to manage them and minimize the associated stress.",
+          "progress": 25,
+          "sequence": 1,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "93261f44-5046-4075-8a83-326cb94a749e",
+              "name": "Understanding Conflict",
+              "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "progress": 11,
+              "proficiency": 0,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "81a89023-2003-4280-bc62-1f7896d94b0e",
+                  "name": "Tools Matter",
+                  "progress": 12
+                },
+                {
+                  "id": "57322542-27c5-40e6-b434-3d280b52df3e",
+                  "name": "Conflict Is Only Natural",
+                  "progress": 12
+                },
+                {
+                  "id": "800c54db-55f3-4959-9fc9-a8969b4ab7f9",
+                  "name": "Intro to Family Conflicts",
+                  "progress": 12
+                },
+                {
+                  "id": "6f858129-29a0-4295-ae46-c0adaabd2af5",
+                  "name": "Actions Matter",
+                  "progress": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6f6d48b9-30bc-48bc-8ee5-408f7f6c98a3",
+          "name": "Responsible Decision Making",
+          "description": "Responsible decision-making involves an awareness of how a choice affects you, as well as the ethical implications for your relationships and the larger community. An inability to utilize this skill can leave a child disconnected from their family and friends, unaware of how their decisions impact others. By possessing self-awareness and making responsible decisions, a child can practice holistic development and be a positive force in their community.",
+          "progress": 55,
+          "sequence": 2,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "8610cbf6-1775-407a-b392-fa9776d8f49c",
+              "name": "Introduction to Internet Safety",
+              "description": "This course gives students an introduction to internet safety. It covers phishing, malware, how to safely connect with others online and hacking. Students will learn what to be aware of in order to stay safe online as well as understanding what to do if they experience online dangers. This course gives students the opportunity to practice their decision making skills by deciphering what is and isn’t an online danger and responding to online dangers with appropriate actions. At the end of this course, students should feel confident browsing online and interacting with others online in a safe manner. ",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 50,
+              "completion": 60,
+              "progress": 11,
+              "proficiency": 40,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "0f0fdfc2-ca1d-4a01-a264-366ce2b7b212",
+                  "name": "Phishing",
+                  "progress": 42
+                },
+                {
+                  "id": "2a2754f9-3fac-4f24-b272-d24c31aab7b7",
+                  "name": "Hacking",
+                  "progress": 32
+                },
+                {
+                  "id": "71fc2c19-055e-456f-b687-02e4a70933a6",
+                  "name": "Malware",
+                  "progress": 25
+                },
+                {
+                  "id": "e5b60453-a583-4209-88c5-10f332e9c1fa",
+                  "name": "Stranger Danger",
+                  "progress": 35
+                }
+              ]
+            },
+            {
+              "id": "ac12f792-6e83-4f63-b5d8-7a3b64529a01",
+              "name": "Debunking Health Myths",
+              "description": "To stand up and take action, we must first be inspired to make positive change. You will notice how Alex learns about social determinants of health, which are the large, numerous influences society has on health. It's clear Alex is concerned about ways societal conditions can hurt health, and they have a lot to learn about how to channel their concern into action. In this lesson, you will learn more about social determinants of health and build sympathy for ways some societal conditions can negatively impact health.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 10,
+              "completion": 30,
+              "progress": 30,
+              "proficiency": 20,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "93e2b150-d9b2-462d-9582-775532ce4856",
+                  "name": "Society Impacts Our Health",
+                  "progress": 22
+                },
+                {
+                  "id": "5c015ab4-dfe6-4f2e-ab84-f346cd069d91",
+                  "name": "Health and Our Zip Code",
+                  "progress": 20
+                },
+                {
+                  "id": "21d70210-a067-465a-9d46-3f555825881d",
+                  "name": "Health Behaviors",
+                  "progress": 12
+                },
+                {
+                  "id": "7b7fabed-de96-4b1d-8d4c-293896e60fd7",
+                  "name": "Healthcare Access",
+                  "progress": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f0e89f4a-0fe9-439a-a3b1-e9c965adb474",
+          "name": "Teamwork & Collaboration",
+          "description": "The skill of collaboration and cooperation is about building relationships with others and managing conflict as it arises. A child who lacks this skill will not be able to work well with others and will likely struggle to resolve disagreements with their friends and fellow students. Through collaboration and cooperation, a child will understand what it means to work alongside others and come to a consensus.",
+          "progress": 25,
+          "sequence": 8,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "7b9bbcd2-a0c3-46d5-8418-8b048d4f1a59",
+          "name": "Relationship Management",
+          "description": "In order to develop the skill of relationship management, a child will need to be able to communicate with others and build bonds through collaboration and understanding. A child who does not have this skill will not be able to inspire or influence others, nor will they be able to learn from others. Through this ability, a child can learn what it takes to communicate effectively and forge bonds built on reciprocity and respect.",
+          "progress": 25,
+          "sequence": 3,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "faa1f60d-04ac-40c7-af1c-49c4333a5afb",
+              "name": "Relationship Building Basics",
+              "description": "You have a lot of different relationships in your life with family, friends, classmates, teammates, coaches, teachers and more.  They are important to maintain, but sometimes it can be a challenge or confusing.   In this first level course, you will gain the essential skills and strategies to build and maintain positive relationships.  This program is crafted to help you understand the basics of building relationship, develop effective communication techniques, foster trust and connection, and nurture friendships over time.  Upon completion you will be empowered to cultivate meaningful and healthy relationships with anyone in your life.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "progress": 11,
+              "proficiency": 0,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "dde944ef-b728-4cb8-9089-4deeaa4be1fd",
+                  "name": "Effective Communication Strategies",
+                  "progress": 12
+                },
+                {
+                  "id": "a64cad29-6794-49fb-9b32-2557650d6f7c",
+                  "name": "Building Trust and Connections",
+                  "progress": 12
+                },
+                {
+                  "id": "67b063a6-ce7e-48f2-b65e-78a87f8db608",
+                  "name": "Maintaining Long-Lasting Friendships",
+                  "progress": 12
+                },
+                {
+                  "id": "91161bd2-944d-477f-8fd9-7432d1713a0d",
+                  "name": "Understanding Relationship Building",
+                  "progress": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5808d005-9563-429b-80f9-d2fccea03c92",
+          "name": "Social & Cultural Awareness",
+          "description": "Social awareness is the ability to have empathy for others and showcase an appreciation for the diversity that comes from other perspectives, experiences, and cultures. A child who does not develop this skill may not be able to engage with social norms that help them adapt in different settings among their family, friends, and community. By nurturing this skill as part of holistic growth, a child accepts shared responsibility and contributes to creating a more inclusive and respectful world.",
+          "progress": 25,
+          "sequence": 5,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "c8e5331b-3aaf-4b14-bb68-42b18ebf9731",
+              "name": "Social Identities - Making the Invisible, Visible",
+              "description": "This course is designed to help your child better learn about themselves and others through gaining the interpersonal skills and cultural confidence to build diverse relationships, self-awareness, emotional intelligence, and self-care. Through an interactive story, your child will gain valuable skills to navigate complex social situations and learn to better engage in a diverse world.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 0,
+              "completion": 0,
+              "progress": 11,
+              "proficiency": 0,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "750e243e-1d39-49cd-8eaf-8f8fc20c0ec6",
+                  "name": "Trouble at Green Hill Middle",
+                  "progress": 12
+                },
+                {
+                  "id": "9248b0c6-42d1-42be-8333-1938c3f6c77d",
+                  "name": "Witnessing a Microaggression",
+                  "progress": 12
+                },
+                {
+                  "id": "3d7d5482-2da8-4d3c-80c5-8eef371dc1d5",
+                  "name": "Apologizing for a Microaggression",
+                  "progress": 12
+                },
+                {
+                  "id": "c2240c8e-9f8f-4bfc-9f7b-ccba161bc13b",
+                  "name": "Experiencing a Microaggression",
+                  "progress": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9830b1e2-02e2-4a18-b799-f9f608fd1296",
+          "name": "Respect",
+          "description": "As one of the most important skills in life, respect is not just about how we treat ourselves, but about how we treat others. A child who is not able to show respect for others will struggle in all of their relationships, and will be unable to succeed at home, at school, or in the workplace. By understanding the importance of respect, holistic growth enables a child to be courteous towards everyone so they can build relationships that provide the same in turn.",
+          "progress": 25,
+          "sequence": 9,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "115d5ab7-e104-4221-ad3e-43a240d57f7e",
+          "name": "Leadership",
+          "description": "The skill of leadership is what it takes for a child to inspire and oversee others, nurturing their strengths and abilities in pursuit of a common objective. Without this skill, a child will not be comfortable taking the reins and guiding others towards a goal, whether for a school project or in the workplace. By nurturing leadership, a child can fully engage with their strengths and bring out the best in others.",
+          "progress": 25,
+          "sequence": 6,
+          "isEnrolled": false,
+          "courses": []
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

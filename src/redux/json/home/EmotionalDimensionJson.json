@@ -1,0 +1,293 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "f83a9d8d-c582-4a38-bcc8-cd542a9400b7",
+      "name": "Emotional",
+      "description": "From developing a strong sense of self, building an awareness of their emotions, expressing and managing their feelings, to developing coping mechanisms to deal with triggers, with the development of their emotional dimension, your child can grow into a balanced individual capable of navigating the uncertainties of life.",
+      "alert": "Some Alert Text",
+      "progress": 51,
+      "sequence": 4,
+      "skills": [
+        {
+          "id": "44321bcd-dc26-4126-b8fc-604bdfd036be",
+          "name": "Resilience",
+          "description": "Resilience affords us the ability to roll with the punches, taking on new challenges and adapting to the hurdles that will arise in life. A child that cannot respond accordingly in a given situation will not have the ability to shift with the pace of change in the future world. By prioritizing a growth mindset and adaptability, a child will be able to avoid negative self-talk, become resilient and work towards a goal until they succeed.",
+          "progress": 65,
+          "sequence": 1,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "81d58833-410c-4e9e-af48-c231b46ffbec",
+              "name": "Growing with Resilience",
+              "description": "Resilience is a skill that is vital in today's changing world. Change seems to be inevitable for today's generation as it never was in earlier years. In the current global environment, changes seem to be ever present. But we as humans are more comfortable in routines. Routines enable us to feel safe vis-a-vis change that is looked upon in suspicion. So starts the cycle of anxiety and stress. Resilience is that tool in our toolbox that helps us navigate through these challenges but more than that it helps us thrive. This course is designed to help students not just understand the importance of Resilience as a tool but also how to personalize it and utilize it for their needs.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Growing_With_Resilience_Icon.png",
+              "timing": 60,
+              "completion": 80,
+              "progress": 71,
+              "proficiency": 70,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "8d3c84c0-a41d-462d-aee2-3723a63b3a09",
+                  "name": "New is fun?",
+                  "progress": 62
+                },
+                {
+                  "id": "b4ce4b64-3594-4b59-a191-d64d4dd59ccc",
+                  "name": "What is 'my scary' challenge?",
+                  "progress": 53
+                },
+                {
+                  "id": "f1977211-2367-4804-a772-ebda428ce125",
+                  "name": "Uncomfortable",
+                  "progress": 74
+                },
+                {
+                  "id": "c4674775-3b19-479b-88d1-d6600df27e30",
+                  "name": "Learning and Growth",
+                  "progress": 65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0f5cce24-607d-48aa-ae6e-d100e117706f",
+          "name": "Critical Thinking",
+          "description": "The ability to effectively analyze the facts in a situation and form a judgment is what it means to think critically. \r\nWhile many children can comprehend facts, a child who does not have critical thinking ability may struggle to form judgements on their \r\nown and problem solve. By developing this skill through holistic growth, they’ll be able to question the world around them and provide \r\na new way of looking at things. ",
+          "progress": 55,
+          "sequence": 2,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "ff77231e-dc56-492d-aea0-f9fa69487ff9",
+              "name": "Mind Crafters: Building Superpowered Thought Skills",
+              "description": "Welcome to a transformative journey for your child! This course cultivates open-mindedness, nurtures investigative questioning, and promotes analytical thinking akin to a detective. Your child will learn to ask incisive questions and comprehend the broader implications of concepts. With practice, they can become proficient thinkers. Ready to empower your child's mind and enhance their future prospects? Let's help them learn critical thinking!",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Critical+Thinking+Icon.jpg",
+              "timing": 57,
+              "completion": 54,
+              "proficiency": 40,
+              "progress": 77,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "e3cadeb0-dc9d-40ed-b3f3-015937b0eece",
+                  "name": "Crafting an Open Mind",
+                  "progress": 41
+                },
+                {
+                  "id": "dcd78613-aa1b-4be0-9e79-2a66c252c9d6",
+                  "name": "Assembling Your Analytical Skills",
+                  "progress": 51
+                },
+                {
+                  "id": "9acf1cd1-cc16-4cae-8f33-f006e7501a73",
+                  "name": "Building Great Questions",
+                  "progress": 63
+                },
+                {
+                  "id": "86602bc7-c190-447b-947b-f69a5ba95a75",
+                  "name": "Building Blocks for Smart Thinking",
+                  "progress": 43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5860471f-6e50-462a-aed2-8c9105f5547f",
+          "name": "Self-Awareness",
+          "description": "Self-awareness enables us to understand our emotions, thoughts, and values, as well as the impact they have on others. Without this ability, a child may not understand their own limitations and weaknesses and may have trouble maintaining healthy relationships with others. A child who possesses self-awareness will be able to identify their emotions, recognize their strengths, and have the self-confidence to express them in an honest, respectful manner.",
+          "progress": 28,
+          "sequence": 3,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "af7d98fe-bc6d-4bcc-92d7-b1e7d5984467",
+              "name": "Goals - Just the Basics",
+              "description": "The modern Western world is complex to navigate throughout your lifespan. There are seemingly infinite options for hobbies, extracurricular activities, interests, leisure activities, careers, and self-expression. At the same time, countless pressures are coming from family, friends, social media, peer groups, etc. Goal setting is an essential skill that can be applied to all aspects of your child’s life and is often associated with higher attainment and successful outcomes. This course is designed to help your child better understand goal setting and the valuable benefits of this critical skill. The hope is that your child will feel more confident in their ability to reflect on their personal values to develop goals that help them successfully achieve their dreams.",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Goal_Setting_Icon.png",
+              "timing": 20,
+              "completion": 50,
+              "proficiency": 30,
+              "progress": 28,
+              "isEnrolled": false,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "2bb4d2d9-75c3-4f48-84b9-19c87fe4bdf0",
+                  "name": "Not all goals can be winners...",
+                  "progress": 11
+                },
+                {
+                  "id": "9a84a010-f700-4b2a-8e5d-05f623b7a116",
+                  "name": "How Well Do We Know Ourselves?!",
+                  "progress": 21
+                },
+                {
+                  "id": "8e8f966d-e8d6-4910-833a-aa9f7387c13d",
+                  "name": "But What About the Perks?",
+                  "progress": 15
+                },
+                {
+                  "id": "c144642c-0d36-49b9-a634-a9d834386dd8",
+                  "name": "Goals on Goals on Goals!",
+                  "progress": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bd050011-ccf7-4980-8a8b-a40c20875336",
+          "name": "Self Confidence",
+          "description": "Emotional intelligence is the ability to be able to recognize, manage, and understand your emotions, as well as those of other people. A child that does not have this skill will struggle in all aspects of life and will be unable to build healthy relationships. It is only through emotional intelligence that a child can regulate their emotions at home and in the classroom, displaying respect for themselves and others.",
+          "sequence": 5,
+          "progress": 35,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "8585e742-45a0-47dc-90ed-0ef310eff224",
+              "name": "The Confidence Conundrum",
+              "description": "Teens are constantly comparing themselves to others.  They also are constantly bombarded on a daily basis with the idea that people in their world they admire have no problem with self-confidence.  Throughout this Level 1 course, the students will learn that the feelings they are experiencing are not unique and that they are not alone.  They will undergo a series of activities in which they will explore what their personality type is, as well as how it connects with other personality types, they will learn how they can be “Smart” in different ways, and also what adults in their lives they can go to if they need help, or just somebody to talk to.  By the time they are finished they will have a way to self-monitor and improve their own strengths and abilities, and also how to recognize strengths and abilities in others. ",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/PromotingSelf-Improvement-CourseIcon.jpg",
+              "isEnrolled": false,
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 11,
+              "sequence": 1,
+
+              "activities": [
+                {
+                  "id": "0b753ea3-0f80-451e-b827-f98b6f798575",
+                  "name": "Self-Confidence is a problem for everyone",
+                  "progress": 31
+                },
+                {
+                  "id": "506c9266-f7df-4c06-9334-2ea5b945fd3e",
+                  "name": "Putting It All Together",
+                  "progress": 41
+                },
+                {
+                  "id": "6999748c-3303-4699-b019-9e3b57653188",
+                  "name": "What does Intelligence really mean?",
+                  "progress": 51
+                },
+                {
+                  "id": "39ac9e19-c373-4300-95f1-b7c9b36e8e5b",
+                  "name": "Where do I fit in?",
+                  "progress": 61
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f51d7443-920c-453e-8701-6d4a260d20cf",
+          "name": "Creativity",
+          "description": "Creativity may often relate to arts like painting and drawing, but this skill is also about seeing things in a different way. Without the power of creativity, a child may not be able to come up with the kind of answers in life that can help them move beyond a vexing question. By engaging with a curious, open-minded approach, a child can find unique solutions that no one else can see.",
+          "sequence": 7,
+          "isEnrolled": false,
+          "progress": 19,
+          "courses": []
+        },
+        {
+          "id": "d821c4a2-67d6-4f72-90d8-c79833720d08",
+          "name": "Problem Solving",
+          "description": "The skill of problem solving enables a child to identify a problem, brainstorm, and implement the solution they think will work best. Without the ability to solve problems, a child may struggle to move beyond situations in life that require their critical capacities. Because problems are bound to arise in every part of life, problem solving is necessary to find proactive solutions that enable one to move forward.",
+          "sequence": 6,
+          "isEnrolled": false,
+          "progress": 11,
+          "courses": []
+        },
+        {
+          "id": "0e60659e-1c50-4300-b1da-dcdd48b696f3",
+          "name": "Self Regulation",
+          "description": "Self regulation is the ability to effectively manage and modulate one's emotions to adaptively respond to different situations. Without this skill, a child will struggle to recognize and understand their emotions, and implement strategies to regulate and control them. A child who can regulate their emotions is able to concentrate and focus better, build and maintain positive relationships, make well thought out decisions, and cope with stress and anxiety with ease.",
+          "progress": 74,
+          "sequence": 4,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "5952ecf6-e32b-4c83-a4a2-dff31b5dff08",
+              "name": "Managing My Impulses: Learning the Basics",
+              "description": "In this introductory-level course your child will become familiar with concepts associated with impulsivity. This course helps learners to recognize impulsive acts while considering the consequences of this behavior and the events that may trigger, or promote, impulsivity. We'll also have a peek into our brain to help us understand its chemistry and functions and its effect on impulsivity. This is a good first step in changing that behavior.",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Impulse+Control_Icon.jpg",
+              "isEnrolled": true,
+              "timing": 60,
+              "completion": 100,
+              "proficiency": 65,
+              "progress": 81,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "8456d0cb-5370-47cc-b261-faac14c90b43",
+                  "name": "Making Changes",
+                  "progress": 82
+                },
+                {
+                  "id": "226b3f6c-02d0-4971-8b59-4825a9d9b632",
+                  "name": "Ruled by an Impulse",
+                  "progress": 46
+                },
+                {
+                  "id": "2d90e25d-4ea3-4912-b4c0-b821b7ad81ab",
+                  "name": "Triggers of Impulsive Behaviors",
+                  "progress": 81
+                },
+                {
+                  "id": "5ee2c8b3-cbad-4286-b20b-480ee254d980",
+                  "name": "Strategies for Managing Impulses",
+                  "progress": 100
+                }
+              ]
+            },
+            {
+              "id": "7a36282f-189d-4268-a1b8-b89eed383522",
+              "name": "What Color is your Emotion?",
+              "description": "This course will show you how to manage your emotions so you can remain in control instead of feeling like your emotions are in control of you. You will be introduced to emotion zones, where various emotions can be placed into various categories. Then you will learn how to identify your own zone and explore behaviors attached to those feelings and self-regulation skills so you can remain in your ideal state within each emotional zone.\r\n\r\nThe feelings you have aren’t good or bad, but they can be tricky. They can be especially challenging at your age as you grow from a kid to a teen. Let’s go on an adventure and figure out what zone you’re in and what to do about it!",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/What_Color_Course_Icon.png",
+              "timing": 66,
+              "completion": 90,
+              "proficiency": 67,
+              "progress": 64,
+              "sequence": 5,
+              "isEnrolled": true,
+              "activities": [
+                {
+                  "id": "75b12677-5d5b-4beb-87d5-fc6474083ac8",
+                  "name": "Life In The Blue, Yellow, and Red Zone",
+                  "progress": 50
+                },
+                {
+                  "id": "90a5931d-0144-4e2b-8698-37a9e91eac97",
+                  "name": "Life In The Green Zone",
+                  "progress": 80
+                },
+                {
+                  "id": "6643e8f5-e48c-4532-94c7-3f31e5bd0424",
+                  "name": "Introducing Emotion Zones",
+                  "progress": 90
+                },
+                {
+                  "id": "0f72d101-e6dc-4698-807a-4d64fdb305f7",
+                  "name": "The Planetarium",
+                  "progress": 70
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

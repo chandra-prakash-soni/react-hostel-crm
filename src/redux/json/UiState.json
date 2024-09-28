@@ -1,0 +1,28 @@
+{
+    "parentid" : "parent id",
+    "uistate": [
+      {
+        "userid" : "first child",
+        "detail" : {
+            "dimension": "First Dimension", 
+            "skill": "Social & Cultural Awarness", 
+            "course": "",
+            "scene": "",
+            "kc" : "",
+            "dimId" : ""
+            
+        }
+      },
+      {
+        "userid" : "first child",
+        "detail" : {
+            "dimension": "First Dimension", 
+            "skill": "Social & Cultural Awarness", 
+            "course": "",
+            "scene": "",
+            "kc" : "",
+            "dimId" : ""
+        }
+      }
+    ]
+}

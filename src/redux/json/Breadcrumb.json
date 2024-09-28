@@ -1,0 +1,17 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "ActivityContentResponse",
+  "records": [
+    {
+      "dimName": "Social",
+      "keyName": "Diversity",
+      "courseName": "Intersectionality",
+      "activityName": "Overview of Intersectionality",
+      "sceneName": ""
+    }
+  ],
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

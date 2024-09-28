@@ -1,0 +1,87 @@
+{
+  "recordId": "25acca1b-d8c4-4d33-a37a-3d9d0a5c7f30",
+  "success": true,
+  "objectName": "dimensiondetail",
+  "records": [
+    {
+      "dimension": {
+        "id": "789324nsldsjfe79834 ",
+        "name": "Intellectual",
+        "description": "",
+        "sequence": 1,
+        "user_id": "782349739479234",
+        "progress": {
+          "x": 2,
+          "y": 1
+        },
+        "skills": [
+          {
+            "id": "789324nsldsjfe79834 ",
+            "name": "math",
+            "description": "",
+            "sequence": 1,
+            "coursecount": 2,
+            "courses": [
+              {
+                "id": "789324nsldsjfe79834",
+                "name": "course name",
+                "description": "course description",
+                "isenrolled": false,
+                "grade": "6",
+                "level": 1,
+                "pctcomplete": 50,
+                "points": 110,
+                "imageurl": "image name",
+                "provider": {
+                  "id": "c34739489er7w9r",
+                  "firstname": "Rhonda",
+                  "lastname": "Allen",
+                  "name": "Rhonda Allen",
+                  "email": "rhondaallen@gmail.com",
+                  "imageurl": "image name",
+                  "aboutme": "Provider daba",
+                  "quote": "quote",
+                  "video": "video url",
+                  "rating": 5,
+                  "globalrating": 4
+                },
+                "courserating": [
+                  {
+                    "id": "c34739489er7w9r",
+                    "rating": 5,
+                    "globalrating": 4,
+                    "headline": "Testing",
+                    "review": "Nice product!"
+                  }
+                ],
+                "activities": [
+                  {
+                    "id": "iu32y43897932794234",
+                    "name": "Self-Confidence is a problem for everyone",
+                    "usercourse_id": "ueruoeu3987493274",
+                    "user_id": "38u480304802384",
+                    "islocked": true,
+                    "weight": 2.5,
+                    "points": 50,
+                    "tpoints": 100,
+                    "pctcomplete": 32,
+                    "sequence": 1,
+                    "unlockdate": "23-05-2023",
+                    "scenecount": "5",
+                    "isseries": false,
+                    "isreference": false,
+                    "ispersonalitytype": false,
+                    "ismultiintel": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

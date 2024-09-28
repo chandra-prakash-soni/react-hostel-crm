@@ -1,0 +1,172 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "f0a356fe-0042-4f75-b778-05901dc7fbf2",
+      "name": "Physical",
+      "description": "The development of the physical dimension supports your child in achieving their physical growth milestones, developing healthy habits, boosting attention and memory, building endurance, and improving long-term health. Consequently, they can realize their human potential and better manage the physiological and biological changes they experience during various stages of their life.",
+      "alert": "Some Alert Text",
+      "progress": 0,
+      "sequence": 2,
+      "skills": [
+        {
+          "id": "333d5714-a46e-4adb-ad5b-6e1c66b3ee21",
+          "name": "Gross & Fine Motor Skills",
+          "description": "Gross motor skills relate to muscle movements that include sitting, crawling, walking, and running. Fine motor skills involve smaller movements that help a child do things like draw, write, and grasp objects. A child without these physical skills will have trouble engaging in many common everyday activities, whether playing sports or coloring. By developing these skills, a child can learn alongside their friends and participate with their peer group.",
+          "progress": 18,
+          "sequence": 3,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "132fa2f8-c8c3-46e7-8c8f-d1cfd5582494",
+              "name": "Body Flow",
+              "description": "Students will have an introductory class for body movements and posture. This course is more about learning to move fluidly from sitting to standing positions with awareness, intention, and ease. Body flow refers to the fluidity of moving while still feeling the body’s pulls and pushes. Finding the low resistance route for moving and working with the body’s current ability. Having fluidity for movement(s) build on these foundational practices.",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Body_Flow_Icon.png",
+              "isEnrolled": true,
+              "timing": 0,
+              "completion": 100,
+              "proficiency": 36,
+              "progress": 11,
+              "sequence": 1,
+
+              "activities": [
+                {
+                  "id": "6865e8c4-1173-49c8-bae8-1f75d21768cb",
+                  "name": "Body Scanning and Awareness",
+                  "progress": 18
+                },
+                {
+                  "id": "2f8c3392-35c9-47ef-994d-4c3f60de8bba",
+                  "name": "Ground Connection",
+                  "progress": 19
+                },
+                {
+                  "id": "28e5e159-0365-46d5-8b4a-73432204f8ee",
+                  "name": "Body Development and Maintenance",
+                  "progress": 28
+                },
+                {
+                  "id": "bb64eb85-d393-4476-ad52-cadb918c0dd9",
+                  "name": "Meditation and Breathwork",
+                  "progress": 30
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b933a825-dcc1-41e7-9b7d-3ac2d5a0b5b7",
+          "name": "Sports",
+          "description": "A competitive physical activity that involves skills and teamwork, sports can include everything from football, hockey, and tennis to fishing, skating, and surfing. A child who does not engage in sports may find it difficult to understand the camaraderie of a team and may also struggle with their physical health. By playing sports, a child can learn the merits of teamwork and how to play well with others when the situation requires it.",
+          "sequence": 5,
+          "isEnrolled": false,
+          "progress": 54,
+          "courses": []
+        },
+        {
+          "id": "3746e4c1-dd0d-463c-ab72-b50c338a6805",
+          "name": "Yoga",
+          "description": "An ancient tradition that includes physical poses and deep breathing, yoga is about developing endurance, flexibility, strength, and tranquility. The child who does not engage in yoga practice may lack physical core strength, as well as mindfulness in dealing with the daily stresses of life. By including yoga in their routine, a child can learn what it is to be present in their body, finding balance and calm in the moment. ",
+          "sequence": 4,
+          "isEnrolled": false,
+          "progress": 54,
+          "courses": []
+        },
+        {
+          "id": "436765e3-1c29-44bd-a794-dfc9d42a79e5",
+          "name": "Physical Fitness",
+          "description": "The ability to perform sports, and complete exercises like running, walking, and climbing is what physical fitness is all about. A child who doesn’t get the necessary amount of physical fitness will struggle with their physical health as well as the mental well-being that is dependent upon it. By engaging with fitness and exercise, a child will be able to take care of their physical body, nourishing their mind and spirit in the process.",
+          "sequence": 1,
+          "isEnrolled": false,
+          "progress": 51,
+          "courses": [
+            {
+              "id": "579b2d85-4b81-4d30-b513-446afff944f8",
+              "name": "Benchmarks and Setting Realistic Goals",
+              "description": "As individuals, our goals are personal to either the sport we play or how fast we can run and how high we can jump. For each age group you reach, there are benchmarks or standards we need to achieve to determine your health and growth abilities. For example, as babies, there are timelines where we start to eat solid food, walk, crawl, and talk, which are all part of this process. During our lessons together, you will learn what these benchmarks are and how to set goals around these benchmarks to continue to help you grow into stronger, faster, and healthier individuals! Disclaimer: the lessons will reference a school setting assessment, which many schools run, but for this course there will be no communication between us, and your school. The assessment will be given as a downloadable PDF, and you or your parents will record the results and tally the score to find your benchmarks. Results will not be shared with schools, and there will not be a formal report sent to your parents. The assessment is strictly used to help you set goals through our lessons.",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Physical_Education_Icon.jpg",
+              "isEnrolled": false,
+              "sequence": 1,
+              "completion": 0,
+              "proficiency": 0,
+              "timing": 0,
+              "progress": 11,
+
+              "activities": [
+                {
+                  "id": "9580d2ed-0eb4-41c1-933c-5bb9296f429d",
+                  "name": "Testing for Benchmarks",
+                  "progress": 41
+                },
+                {
+                  "id": "46eb52f7-5e09-404e-9575-8b59f3218b00",
+                  "name": "Exploring Goal Paths",
+                  "progress": 55
+                },
+                {
+                  "id": "e32223fc-41f1-448e-a7b0-6c410f67cf52",
+                  "name": "Setting Goals",
+                  "progress": 61
+                },
+                {
+                  "id": "364ddc34-ea53-49cf-9d24-a6423dc6bc8e",
+                  "name": "What are benchmarks or baseline abilities?",
+                  "progress": 56
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "83f76ed9-511d-4223-bddc-d0d14e413fe6",
+          "name": "Health & Nutrition",
+          "description": "Health and nutrition are important aspects of a child’s well-being that relate to eating well and getting in the proper nutrients. A child that is not eating a balanced diet and utilizing good hygiene may be tired, lack focus, and may fail to develop healthy habits in life. By eating vegetables, fruits, and other healthy foods, a child will have the sustenance they need to truly engage with the five dimensions of holistic growth.",
+          "sequence": 2,
+          "progress": 51,
+          "isEnrolled": false,
+          "courses": [
+            {
+              "id": "0811ec9b-7b03-498a-80d4-7cfd5abd7f35",
+              "name": "Food for Thought",
+              "description": "You will begin your nutrition journey learning how to identify signs of hunger and the importance of fueling your body adequately. Nutrition impacts us physically, cognitively, and emotionally; developing an understanding of how foods we eat affect us can help foster a healthy relationship with food.",
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/NutritionBasics-CourseIcon.jpeg",
+              "isEnrolled": false,
+              "sequence": 1,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 11,
+              "timing": 0,
+              "activities": [
+                {
+                  "id": "d9bec780-f71c-4df6-9a5d-fdc08dfc969b",
+                  "name": "Food is Fuel",
+                  "progress": 61
+                },
+                {
+                  "id": "3344de81-ee35-4cf5-9da6-dfd9bd7aa163",
+                  "name": "What You Eat Matters",
+                  "progress": 51
+                },
+                {
+                  "id": "9b0aaf4a-bfb5-4d86-8eab-2f89c63f945f",
+                  "name": "Digestion",
+                  "progress": 71
+                },
+                {
+                  "id": "e8914b37-c6f2-471c-8de2-54c90853c0ac",
+                  "name": "Reconnecting with Hunger Cues",
+                  "progress": 81
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

@@ -1,0 +1,359 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "03060552-71ae-4ba4-89bc-6784c4b428c7",
+      "name": "Intellectual",
+      "description": "The development of the intellectual dimension facilitates the building and expansion of your child's cognitive processes. This includes their ability to analyze and evaluate information in a meaningful way, build a knowledge base, think abstractly and rationally, acquire language skills, pursue academics, learn art, and more.",
+      "alert": "Some Alert Text",
+      "progress": 11,
+      "sequence": 1,
+      "skills": [
+        {
+          "id": "0ba1c649-d311-4df4-9228-ed2a0be34616",
+          "name": "Math",
+          "description": "Math is a subject that formally studies numbers, which relates to formulas, shapes, quantities, and their changes. An important subject in standardized education, a child who does not have the ability to understand math may struggle with success in higher education, as well as in budgeting and money management. By understanding numbers, a child can succeed at a host of life skills that include managing a household and achieving their personal goals. ",
+          "progress": 21,
+          "sequence": 1,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "42dee9c3-2d70-4226-aacd-81d9660e71f6",
+              "name": "Math",
+              "description": "This comprehensive Math curriculum for middle school aligns with Common Core and several state standards. This course covers numbers and operations, pre-algebra, Geometry, and data/statistics.  The course is designed to match grade-level expectations and necessary foundational skills.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 20,
+              "completion": 30,
+              "proficiency": 30,
+              "progress": 41,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "80d8acb8-8cfa-42f6-ab07-81a26564a39f",
+                  "name": "Learning Center",
+                  "progress": 41
+                }
+              ]
+            },
+            {
+              "id": "a26469db-60d4-4b75-a519-d312692eca97",
+              "name": "Number Sense I",
+              "description": "This course will review prime/composite numbers, factors, and multiples. Students will learn how to find the Greatest Common Factor (GCF), the Least Common Multiple (LCM), and the reciprocal of a fraction.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 10,
+              "completion": 30,
+              "proficiency": 40,
+              "progress": 31,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "e0ddbd9f-0c1b-438e-a097-ee7839796309",
+                  "name": "Lowest Common Multiple (LCM)",
+                  "progress": 13
+                },
+                {
+                  "id": "fbf16974-5455-463b-af19-4a9ddcd1ee2b",
+                  "name": "GCF and LCM Real World Applications",
+                  "progress": 14
+                },
+                {
+                  "id": "f993145c-3ac9-4b11-9018-8ff5fef8dada",
+                  "name": "Reciprocals",
+                  "progress": 15
+                },
+                {
+                  "id": "f375f9b0-f332-4d3a-b031-57cb26a53b47",
+                  "name": "Greatest Common Factors (GCF)",
+                  "progress": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4edd9c42-1930-4275-af51-33ca8402bff3",
+          "name": "English",
+          "description": "English may involve a proficiency with language, but the focus of this subject is on reading, writing, and acquiring information through listening and the written word. A child who cannot grasp the rudimentary concepts of reading and writing may struggle in all aspects of life that involve reading and comprehension. With an understanding of English, a child can grasp nuanced concepts in the written word, utilizing information to gain insight and perspective.",
+          "progress": 21,
+          "sequence": 2,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "0d2fdb84-1420-44e1-bd37-387ea556ad45",
+              "name": "English",
+              "description": "This comprehensive English Language Arts curriculum for middle school aligns with Common Core and several state standards. The course covers skills in reading literature, reading informational text, writing and grammar, as well as speaking and listening skills. The curriculum is designed to match each grade level's specific expectations for rigor while helping create better readers and writers.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 15,
+              "completion": 40,
+              "proficiency": 45,
+              "progress": 46,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "6df023d6-8fa1-4525-b9ec-f7fceaf47be3",
+                  "name": "Learning Center",
+                  "progress": 46
+                }
+              ]
+            },
+            {
+              "id": "bc5dc178-5784-47c2-b218-fa210db9b4cf",
+              "name": "Close Reading I",
+              "description": "With Close Reading I, you'll have everything you need to understand the nuances of textual evidence and paraphrasing. In this course, you'll get an in-depth look at each topic – from explicit and implicit evidence, choosing the best evidence, to mastering the skills for success. The course will help master the skills to find textual evidence, interpret it, and turn it into useful knowledge.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "ed9eac61-b065-461a-9d54-3134e3befc00",
+                  "name": "Inferencing",
+                  "progress": 13
+                },
+                {
+                  "id": "672a5f77-a37e-44fc-87a1-733073fd6997",
+                  "name": "Analyzing Details",
+                  "progress": 13
+                },
+                {
+                  "id": "f5bb9014-4866-495b-a6ec-ca53be6fa296",
+                  "name": "Character Evidence",
+                  "progress": 13
+                },
+                {
+                  "id": "b7933f8c-00d5-4435-90b3-3762562b5305",
+                  "name": "Reading Comprehension Skills",
+                  "progress": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "274196f9-89f6-4586-88e5-afeab735f64e",
+          "name": "Language",
+          "description": "Few things are more important for communication than language, which is made up of sounds and symbols that are used by people specific to countries and regions. While many different languages abound, a child who does not have a solid grasp of their native language will struggle to communicate with others and succeed at school and in their community. With a focus on this subject, a child can understand others and contribute meaningfully to their community.",
+          "progress": 21,
+          "sequence": 1,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "c24a1a7b-d934-43ac-8ddc-42abff833f27",
+          "name": "Music",
+          "description": "Among the arts, music is the specific art of being able to arrange sounds through a combination of harmony, melody, and rhythm. A child who does not play or listen to music may miss out on what it means to truly express themselves and make connections through music. By engaging with this universal art form, a child may be able to give voice to their feelings while developing respect for the power of the arts.",
+          "progress": 21,
+          "sequence": 1,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "c544c67d-a5fc-41b4-a6ba-0677b1a8beda",
+          "name": "Technology",
+          "description": "Technology refers to the use of tools like software and machines for practical purposes and has a broad range of applications. Because the future is set to be very integrated with technological innovation, the child who does not grasp it will struggle to succeed in all aspects of life. By engaging with technology, a child can communicate readily and easily with others, while using technology as a tool to learn and grow.",
+          "progress": 21,
+          "sequence": 1,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "299d9109-df21-4599-a3c9-60220797cd71",
+          "name": "Finance",
+          "description": "Finance involves the study of money, currency, and assets, and can also take in aspects like budgeting, money management, and investing. A child who does not understand this subject may struggle to stay on top of their own finances and lack understanding of how economics impacts our daily lives. By engaging with this subject, a child can understand money management and the workings of finance in the world.",
+          "progress": 21,
+          "sequence": 3,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "8893edb7-ca5c-43f3-8884-9dfd61593496",
+              "name": "Financial Literacy I",
+              "description": "Money can't buy happiness, but it is an essential part of life and something that is important to understand and manage early on so that it does not cause misery.  Starting with the basics. this course will go over the concept of money, its different forms, and its role in daily life.  Building on that understanding of money,  budgeting and financial goal setting are introduced as the foundation of good money management.  Once goals and a budget are set, then it is on to the valuable skill of saving and an introduction to basic financial planning tools beyond the piggy bank.  Finally, this course will help students learn the importance of smart spending, recognizing the importance of making wise consumer decisions as part of good money management.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 12,
+              "completion": 50,
+              "proficiency": 50,
+              "progress": 52,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "961504da-399d-40a5-8827-85badf056fa8",
+                  "name": "Spend, Spend, Spend - but do it wisely!",
+                  "progress": 14
+                },
+                {
+                  "id": "27e85ea2-f81c-4091-9fd5-f45157b22ee3",
+                  "name": "Pay yourself first - SAVE!",
+                  "progress": 16
+                },
+                {
+                  "id": "d7436f89-a69d-4193-ad4a-c371b97e86d4",
+                  "name": "Budgeting to achieve your dreams",
+                  "progress": 19
+                },
+                {
+                  "id": "bd74b526-94cc-49a7-8488-45db54b24f91",
+                  "name": "What IS money and why should I care?",
+                  "progress": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c6250e01-1641-44b2-96ec-ffdac1c93d53",
+          "name": "Art",
+          "description": "Art is about the harnessing of creative power and can involve a wide range of skills that includes drawing, painting, acting, and sculpting. For the child whose life is absent of art, it can be hard to find a creative outlet that gives voice to their emotional and spiritual aspects. It is through the expression creativity affords that a child can articulate their deepest sensibilities and feel at home in the world.",
+          "progress": 21,
+          "sequence": 5,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "18ee9c89-24ec-4971-9f5a-475048303523",
+              "name": "Drawing Fun-damentals I",
+              "description": "Perspective is one of the building blocks that allows you to make believable drawings, learn how to draw 3 dimensional forms, such as cubes, cylinders, pyramids etc. on a 2 dimensional surface. By the end of this course you'll have the necessary knowledge to break down complex objects in their simplest forms. Keep in mind that this is just the start of it, perspective is simple to understand, but very hard to master, but the more you practice and learn about it, the more you'll be able to draw anything you want and spot incorrect perspectives in other people's drawings.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 20,
+              "completion": 40,
+              "proficiency": 60,
+              "progress": 31,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "278ba573-a450-4ede-ae2e-adbfaea2d11c",
+                  "name": "Cross-contours and intersections",
+                  "progress": 23
+                },
+                {
+                  "id": "a504ce86-080d-4dbc-8c90-6c4cd29a87a9",
+                  "name": "Perspective Basics",
+                  "progress": 29
+                },
+                {
+                  "id": "d01b92ea-1b89-4c23-8253-e3f2fbc4fa64",
+                  "name": "Time to draw!",
+                  "progress": 32
+                },
+                {
+                  "id": "44cd8123-1e22-4851-9720-728ffca4eea6",
+                  "name": "Circles, cylinders and spheres",
+                  "progress": 41
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dfd1e81b-c225-4a1d-b93b-be87c6b8dbb3",
+          "name": "Social Studies",
+          "description": "As a field of study that examines the collision of history, culture, geography, and politics, social studies is about human society. Without an understanding of social studies and the world’s currents, it is hard for children to grasp how humans have functioned and survived throughout history. This knowledge can help a child gain an appreciation of the strengths of our culture as well as those of others so they can understand our part in the whole.",
+          "progress": 25,
+          "sequence": 4,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "dee4615e-1380-4f06-8cc1-798bad514b21",
+              "name": "United States History",
+              "description": "This US History and Government comprehensive curriculum for middle school students aligns with Common Core and several state standards. It provides learners with a deep understanding of US history, government, and civics utilizing critical skills to prepare them for academic and professional life.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 15,
+              "completion": 40,
+              "proficiency": 30,
+              "progress": 39,
+              "sequence": 1,
+              "activities": []
+            },
+            {
+              "id": "2dd0887a-9236-492a-9019-89658ea80be9",
+              "name": "World History Prehistoric-1400",
+              "description": "This world history curriculum for middle school students covers prehistoric times to 1400 CE and is comprehensive and aligned with Common Core and several state standards.  It provides learners with a broad understanding of human history, cultures, and civilizations.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": []
+            },
+            {
+              "id": "50079fd4-c8e5-4a3a-8084-ce76c152ff5a",
+              "name": "World History (1450-Present)",
+              "description": "This US History and Government comprehensive curriculum for middle school students aligns with Common Core and several state standards. It provides learners with a deep understanding of US history, government, and civics utilizing critical skills to prepare them for academic and professional life.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": []
+            }
+          ]
+        },
+        {
+          "id": "17f5d834-52ee-48bb-951f-b6b04f07a7d3",
+          "name": "Science",
+          "description": "As a system that builds and organizes knowledge, science is made up of testable hypotheses regarding the nature of the universe. Without science, it is difficult for a child to understand many of the daily processes of life, from how our bodies function to how gravity and nature work. By understanding science and its importance, children can develop an appreciation for the wonders inherent in the world and how they impact our lives.",
+          "progress": 40,
+          "sequence": 6,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "29a2e744-a52c-48bb-b04d-27b62184bf50",
+              "name": "Earth Science",
+              "description": "This middle school Earth Science curriculum is aligned with Common Core and several state standards. This course teaches fundamental concepts in geology, oceanography, meteorology, astronomy, and more.\r\nIt helps develop an understanding of our role in the world and to build critical thinking skills.\r\n",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 22,
+              "completion": 33,
+              "proficiency": 24,
+              "progress": 40,
+              "sequence": 1,
+              "activities": []
+            },
+            {
+              "id": "b22a9ddd-e5ad-47e4-b416-342e1c5652c6",
+              "name": "Life Science",
+              "description": "This middle school Life Science curriculum provides students with an understanding of cells and heredity, plant and animal life cycles, human body systems, classification systems, and ecology. It is aligned with Common Core and several state standards.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": []
+            },
+            {
+              "id": "165e9e81-7cc3-4019-a38f-44d4057d8008",
+              "name": "Physical Science",
+              "description": "Our middle school Physical Science homeschool curriculum helps students explore our physical universe. It covers concepts such as motion, energy, matter and atoms, how chemicals combine, and types of energy. This curriculum is aligned with Common Core and several state standards.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/English.jpg",
+              "timing": 0,
+              "completion": 0,
+              "proficiency": 0,
+              "progress": 31,
+              "sequence": 1,
+              "activities": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

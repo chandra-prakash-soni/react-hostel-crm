@@ -1,0 +1,23 @@
+Tabs
+    Series
+    Characters
+    Recap
+    References
+    Quiz
+    Practice
+
+    Social  
+        Series
+        Characters (depend on data)
+        References (depend on data)
+
+    Intellectual
+        Math | English | Core
+            Series
+            Practice    (depend on data)
+            Quiz        (depend on data)
+            References  (depend on data)
+        Art | E
+            Series
+            References  (depend on data)
+    

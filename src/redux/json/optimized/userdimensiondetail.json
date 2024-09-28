@@ -1,0 +1,123 @@
+{
+  "recordId": "25acca1b-d8c4-4d33-a37a-3d9d0a5c7f30",
+  "success": true,
+  "objectName": "dimensiondetail",
+  "records": [
+    {
+      "dimension": {
+        "id": "789324nsldsjfe79834 ",
+        "name": "intellectual",
+        "description": "",
+        "sequence": 1,
+        "user_id": "782349739479234",
+        "progress": {
+          "x": 2,
+          "y": 1
+        },
+        "skills": [
+          {
+            "id": "789324nsldsjfe79834 ",
+            "name": "math",
+            "description": "",
+            "sequence": 1,
+            "courseCount": 2,
+            "isCore": false,
+            "isDef": false,
+            "isEnrolled": false,
+            "courses": [
+              {
+                "id": "789324nsldsjfe79834",
+                "name": "course name",
+                "description": "course description",
+                "isEnrolled": false,
+                "grade": "6",
+                "level": 1,
+                "pctCompleted": 50,
+                "points": 110,
+                "imageUrl": "https://vickyknows.s3.amazonaws.com/course-pics/Drawing_Fundamentals_Course_Icon.png",
+                "type": "PROVIDER",
+                "provider": {
+                  "id": "c34739489er7w9r",
+                  "firstName": "Rhonda",
+                  "lastName": "Allen",
+                  "name": "Rhonda Allen",
+                  "email": "rhondaallen@gmail.com",
+                  "imageUrl": "https://vickyknows.s3.amazonaws.com/profile-pics/Elizabeth+Purpero.jpg",
+                  "aboutMe": "Provider daba",
+                  "quote": "quote",
+                  "video": "video url",
+                  "rating": 5,
+                  "globalRating": 4,
+                  "ratingDetails": [
+                    { "name": "5 Star", "averageRating": 100 },
+                    { "name": "4 Star", "averageRating": 12 },
+                    { "name": "3 Star", "averageRating": 4 },
+                    { "name": "2 Star", "averageRating": 20 },
+                    { "name": "1 Star", "averageRating": 80 }
+                  ]
+                },
+                "courserating": [
+                  {
+                    "id": "c34739489er7w9r",
+                    "rating": 5,
+                    "globalRating": 4,
+                    "headline": "Testing",
+                    "review": "Nice product!",
+                    "ratingDetails": [
+                      { "name": "4 Star", "averageRating": 21 },
+                      { "name": "3 Star", "averageRating": 12 },
+                      { "name": "3 Star", "averageRating": 89 },
+                      { "name": "2 Star", "averageRating": 90 },
+                      { "name": "1 Star", "averageRating": 100 }
+                    ]
+                  }
+                ],
+                "activities": [
+                  {
+                    "id": "iu32y43897932794234",
+                    "name": "Self-Confidence is a problem for everyone",
+                    "usercourse_id": "ueruoeu3987493274",
+                    "user_id": "38u480304802384",
+                    "isLocked": false,
+                    "weight": 2.5,
+                    "points": 50,
+                    "tPoints": 100,
+                    "pctCompleted": 32,
+                    "sequence": 1,
+                    "unlockDate": "23-05-2023",
+                    "sceneCount": "5",
+                    "isSeries": true,
+                    "isReference": true,
+                    "isPersonalityType": true,
+                    "isMultiIntel": true
+                  },
+                  {
+                    "id": "iu32y438q97932794234",
+                    "name": "Self-Confidence is a problem for everyone",
+                    "usercourse_id": "ueruoeu3987493274",
+                    "user_id": "38u480304802384",
+                    "isLocked": true,
+                    "weight": 2.5,
+                    "points": 50,
+                    "tPoints": 100,
+                    "pctCompleted": 32,
+                    "sequence": 1,
+                    "unlockDate": "23-05-2023",
+                    "sceneCount": "5",
+                    "isSeries": false,
+                    "isReference": false,
+                    "isPersonalityType": false,
+                    "isMultiIntel": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

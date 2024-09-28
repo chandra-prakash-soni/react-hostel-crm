@@ -1,0 +1,204 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Course",
+  "records": [
+    {
+      "id": "d74e3448-5442-4ab2-b492-de6f64b53d2b",
+      "name": "Spiritual",
+      "description": "By developing their spiritual dimension, your child can find their purpose in life, think and act ethically, feel a sense of connection and spiritual fulfillment, live authentically, and cultivate gratitude to cope better with life's stresses and safeguard their mental health from an early age.",
+      "alert": "Some Alert Text",
+      "progress": 91,
+      "sequence": 1,
+      "skills": [
+        {
+          "id": "96c81125-c041-4891-ac2e-aa62294f0bfd",
+          "name": "Mindfulness",
+          "description": "The skill of mindfulness is about being present in the moment and paying attention to the here and now. \r\nA child who has not developed the ability to be mindful may lack focus and be inattentive to what’s in front of them, \r\nbypassing many of life’s useful lessons in the process. By engaging with each day in a mindful way, a child can achieve \r\nempowerment through holistic growth and find the utility of each moment.",
+          "progress": 82,
+          "sequence": 1,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "c45f272e-3cfa-462e-be7c-fce57fa0fc99",
+              "name": "Ethical Decision Making",
+              "description": "Every moment of our life is based around the choices that we make. Good choices come down to the way our brain is wired to think and react to situations given to us. To be able to see the bigger picture and the options around it, your child needs to have an understanding of characteristics that have a good ethical background. Then using critical thinking skills to learn how to react to positive and negative scenarios in life. This course will take your child on a journey into a land of making good choices, living through kindness, and strategies to understand that their choices will have a positive or negative effect. It all comes down to them to see the bigger picture. This course begins with Ethical Values such as kindness, responsibility, trustworthiness, and respect. It continues on with different techniques to analyze the severity of the situation and judging possible outcomes. By the end of this course. Your child will have the necessary skills to navigate through the world's twists and turns and do it with a good ethical background and a kind heart. ",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/EthicalDecisionMaking-CourseIcon.jpg",
+              "timing": 77,
+              "completion": 89,
+              "proficiency": 90,
+              "progress": 85,
+              "sequence": 2,
+              "activities": [
+                {
+                  "id": "05d12dc8-2230-462d-900d-da5a19516bea",
+                  "name": "Introduction to ethical decision making",
+                  "progress": 61
+                },
+                {
+                  "id": "4f98a5b0-f76a-40fe-8502-a3240815c88a",
+                  "name": "Stand up for the underdog",
+                  "progress": 72
+                },
+                {
+                  "id": "145eeaf6-7050-4501-87eb-4aa2b97c9469",
+                  "name": "Traffic Light Theory",
+                  "progress": 84
+                },
+                {
+                  "id": "145eeaf6-7050-4501-87eb-4aa2b97c9469",
+                  "name": "Social Awareness in making diverse choices",
+                  "progress": 64
+                }
+              ]
+            },
+            {
+              "id": "94705592-2b04-4855-8b12-1d5795ecd0be",
+              "name": "Mindfulness in Motion: What is it and how can it help me?",
+              "description": "This is an introduction to the basic concept of mindfulness. It focuses on practical, physical ways to implement mindfulness in everyday life that are action oriented. The student is also introduced to the idea of using mindfulness to relate to their thoughts and feelings and those of others. Using mindfulness in this way will change the quality of their interactions and experiences.",
+              "isEnrolled": true,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Mindfulness_Course_Icon.jpg",
+              "timing": 40,
+              "completion": 70,
+              "proficiency": 65,
+              "progress": 65,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "9241f41c-1052-41ec-b528-b807cbc291d2",
+                  "name": "Introduction to Mindfulness",
+                  "progress": 56
+                },
+                {
+                  "id": "94e4093a-013b-404d-b23f-b8213c991e36",
+                  "name": "Mindful Relationships",
+                  "progress": 52
+                },
+                {
+                  "id": "576d578e-dafb-4a01-81a5-c90f74178d05",
+                  "name": "Mindfulness and Feelings",
+                  "progress": 63
+                },
+                {
+                  "id": "2b8599d1-c056-48d6-9cc4-0ef6f0a69a70",
+                  "name": "Mindfulness and thoughts",
+                  "progress": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b0a58d84-d5dc-46fa-bae2-846942585a17",
+          "name": "Gratitude",
+          "description": "Gratitude may be a lesser-known skill, but it is one of the most important ways that we show thankfulness and appreciation for life and the kindness of others. A child who does not show gratitude will be unable to appreciate the goodness inherent in life and in others, in good and bad moments. By practicing gratitude, a child can learn to appreciate what life and other people have to give, putting positivity into the world each day.",
+          "progress": 62,
+          "sequence": 2,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "7a1e3fc6-bf9b-434b-9b0e-a972f788694d",
+              "name": "What is Gratitude?",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/What+is+Gratitude_Icon.jpg",
+              "timing": 60,
+              "completion": 80,
+              "proficiency": 70,
+              "progress": 62,
+              "sequence": 1,
+              "description": "In this course, your child will explore the term gratitude and the importance of practicing gratitude. Your child will learn about the four main principles of gratitude and how they can use these to guide their gratitude practice. This course also teaches children about simple actions of gratitude, such as saying thank you and acts of kindness.",
+              "activities": [
+                {
+                  "id": "7f94af83-77a2-4d5e-8ea4-59afa26ce787",
+                  "name": "Four Principles of Gratitude",
+                  "progress": 41
+                },
+                {
+                  "id": "61fdb0ab-c866-43b7-bc1c-d7e84802efe5",
+                  "name": "Saying Thank You",
+                  "progress": 53
+                },
+                {
+                  "id": "71f59151-aaa6-4094-b3bc-1dc8b5057896",
+                  "name": "What is Gratitude?",
+                  "progress": 64
+                },
+                {
+                  "id": "170212d0-1873-4782-b88c-98bd52170662",
+                  "name": "Acts of Kindness",
+                  "progress": 70
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "44a4059d-c081-43c8-9636-77d71a572178",
+          "name": "Meditation",
+          "description": "Meditation may commonly be seen as a part of religious tradition, but it is also a technique that is about \r\ntraining attention and awareness to achieve a calm state. Few children engage with meditation, which can lead to emotional \r\nreactivity and an inability to focus. By engaging with this technique, a child can avoid emotional outbursts and reactive \r\nbehavior so they can stay calm in life’s most stressful moments.",
+          "sequence": 4,
+          "progress": 42,
+          "isEnrolled": false,
+          "courses": []
+        },
+        {
+          "id": "b39f1f18-67ed-4305-bf6e-94cdbe14f21d",
+          "name": "Compassion",
+          "description": "The ability to recognize the emotions of others and have empathy and sympathy for them is what compassion is about. Without this trait, a child will have difficulty with their family and friends, unable to showcase understanding of their emotions and needs. It is through compassion that a child can develop a deeper understanding of those around them, building lasting relationships based on authenticity and kindness.",
+          "sequence": 3,
+          "progress": 85,
+          "isEnrolled": true,
+          "courses": [
+            {
+              "id": "91907581-de45-4b07-b060-a3d45419c52c",
+              "name": "Cultivating Compassion: Building Empathy",
+              "description": "Like most people, you believe that compassion is a worthwhile quality to explore and develop. When we are in need of consolation, a compassionate ear can bring us comfort. Compassionate people are held in high esteem, and they help to make our communities and our world a better place to live in. In this course you will join Anissa in her journey in the first of the five elements of compassion: recognizing suffering. Already shaken by her studies of the Civil Rights Movement, Anissa is shocked when she reads about Apartheid South Africa.",
+              "isEnrolled": false,
+              "imageUrl": "https://vickyknows.s3-accelerate.amazonaws.com/course-pics/Recognizing_Suffering_Icon.png",
+              "timing": 60,
+              "completion": 90,
+              "proficiency": 70,
+              "progress": 85,
+              "sequence": 1,
+              "activities": [
+                {
+                  "id": "b14d5b4a-2bd3-4b9f-946c-ab3c45e2cc05",
+                  "name": "About Grandma Dee Dee",
+                  "progress": 21
+                },
+                {
+                  "id": "dfa3b389-5f62-4335-bb69-b9c14c97e3f4",
+                  "name": "A Shaky Start",
+                  "progress": 22
+                },
+                {
+                  "id": "c7656666-40ea-4ce5-82fb-bd1928dc84a4",
+                  "name": "Anissa's Open eyes",
+                  "progress": 24
+                },
+                {
+                  "id": "c58d07da-fd0a-4d13-afd3-e66fb012ffa7",
+                  "name": "When Michael Was a Shrub",
+                  "progress": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8d128d0a-d099-4721-843d-05f4747cae7f",
+          "name": "Forgiveness",
+          "description": "Forgiveness is the ability to acknowledge the mistakes or transgressions of others, without seeking revenge or needing to inflict punishment. Without the ability forgive, a child may be vengeful and may not learn the lessons that making mistakes can afford. It is only through engaging with forgiveness towards others that a child can truly understand others and accept their own shortcomings and weaknesses.",
+          "sequence": 5,
+          "progress": 45,
+          "isEnrolled": false,
+          "courses": []
+        }
+      ]
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

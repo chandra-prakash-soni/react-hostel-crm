@@ -1,0 +1,60 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Most Popular Courses",
+  "records": [
+    {
+      "Id": "117d52b7-857a-4a3a-bcba-537980c9bcc7",
+      "name": "Communication Climb",
+      "description": "Grab your hiking boots and trail mix! Franki, a young nature enthusiast, is ready to navigate the world of communication. This course offers learners an opportunity to understand different types of communication and how certain settings require specific skills. Additionally, as learners accompany Franki on his adventure, they'll meet a variety of people who will help him explore the impact of communication, the significance of empathy and assertiveness, as well as how to navigate communication challenges. Finally, since Franki is a digital native, he and his fellow learners will also have a chance to enhance their understanding of virtual communication. Let's climb!"
+    },
+    {
+      "Id": "93261f44-5046-4075-8a83-326cb94a749e",
+      "name": "Understanding Conflict",
+      "description": "Conflicts happen on a daily basis. Sometimes the conflicts result in a simple 'I'm sorry' while other conflicts can escalate. Conflict can be good or bad depending on how we deal with it. This level is meant to be an introduction to conflict resolution as well as an overview of every level in the course journey your child will be experiencing. The overall goal of this level is to learn that conflict is about disagreeing with ideas or behaviors, not people and that conflict is not always a bad thing. It will also give a brief overview of all the topics in this entire course."
+    },
+    {
+      "Id": "e4da15b2-1c86-40f0-b48e-336277e55819",
+      "name": "Yoga Asana: Super Strength for Body and Mind Magic",
+      "description": "Asanas refer to the physical postures and poses practiced in yoga. They help improve flexibility, strength, balance, and overall body awareness. Practicing asanas regularly also promotes a healthy body-brain connection by helping you recognize self talk, repetitive thoughts that distract clear thinking, and mental habits that make you feel stuck. In this course, your child will learn the benefits of maintaining a consistent practice for a strong, mobile and flexible body, the basic alignment of the poses and even scientific benefits of these physical yoga poses."
+    },
+    {
+      "Id": "ff77231e-dc56-492d-aea0-f9fa69487ff9",
+      "name": "Mind Crafters: Building Superpowered Thought Skills",
+      "description": "Welcome to a transformative journey for your child! This course cultivates open-mindedness, nurtures investigative questioning, and promotes analytical thinking akin to a detective. Your child will learn to ask incisive questions and comprehend the broader implications of concepts. With practice, they can become proficient thinkers. Ready to empower your child's mind and enhance their future prospects? Let's help them learn critical thinking!"
+    },
+    {
+      "Id": "8893edb7-ca5c-43f3-8884-9dfd61593496",
+      "name": "Financial Literacy I",
+      "description": "Money can't buy happiness, but it is an essential part of life and something that is important to understand and manage early on so that it does not cause misery. Starting with the basics. this course will go over the concept of money, its different forms, and its role in daily life. Building on that understanding of money, budgeting and financial goal setting are introduced as the foundation of good money management. Once goals and a budget are set, then it is on to the valuable skill of saving and an introduction to basic financial planning tools beyond the piggy bank. Finally, this course will help students learn the importance of smart spending, recognizing the importance of making wise consumer decisions as part of good money management."
+    },
+    {
+      "Id": "faa1f60d-04ac-40c7-af1c-49c4333a5afb",
+      "name": "Relationship Building Basics",
+      "description": "In this first level course, you will gain the essential skills and strategies to build and maintain positive relationships. The lessons will help you understand the basics of building relationship, develop effective communication techniques, foster trust and connection, and nurture friendships over time. Upon completion you will be empowered to cultivate meaningful and healthy relationships with anyone in your life."
+    },
+    {
+      "Id": "e1af4f71-b0cf-4a53-bc96-5220fc4e5b0f",
+      "name": "Meditation Foundation: Breath and Self Awareness",
+      "description": "Self awareness and breath awareness lay the foundation for mindfulness and meditation. The act of tuning into your breath not only grounds you in the present moment, but nurtures a sense of calm and peace. As you cultivate self-awareness, you unlock an awareness of your environment, thoughts, and emotions. Through the learning of both breath awareness and self awareness, you are able to slowly hone the skill of being present and mindful. This allows you to become conscious of your surroundings, your mind, and your emotions. In this course, your child will learn how to connect to their breath, how to move their awareness within, and initiate thoughtful reflections in the present moment."
+    },
+    {
+      "Id": "977cc503-ce5d-4161-b7f0-44333827a25a",
+      "name": "The Leap to Leadership",
+      "description": "It's time to lead the way! Allison wants to take on leadership roles in her school and community because she enjoys helping others. This course offers learners an opportunity to understand different leadership styles, how to model and demonstrate the behaviors of effective leadership, the importance of communication and collaboration, as well as the importance of a solutions-oriented mindset. As learners accompany Allison on her journey, they'll meet a variety of people who will help her explore the many ideas and skills associated with effective leadership. Let's go!"
+    },
+    {
+      "Id": "b51fef29-c92e-44a7-8cab-58718e5ff405",
+      "name": "Problem-Solving Power: Unleash Your Child's Genius",
+      "description": "Unleash the genius within your middle-schooler with our dynamic course! It's packed with essential tools and groundbreaking techniques like the 5-Why Tool and Fishbone Diagrams. We go beyond the ordinary by integrating critical thinking and teamwork, turning every challenge into a thrilling opportunity. This course will supercharge your child's confidence to conquer any problem, and spark a transformation setting them up for a lifetime of success. Get ready to be amazed by the evolution of your child's problem-solving skills!"
+    },
+    {
+      "Id": "7a1e3fc6-bf9b-434b-9b0e-a972f788694d",
+      "name": "What is Gratitude?",
+      "description": "In this course, your child will explore the term gratitude and the importance of practicing gratitude. Your child will learn about the four main principles of gratitude and how they can use these to guide their gratitude practice. This course also teaches children about simple actions of gratitude, such as saying thank you and acts of kindness."
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}

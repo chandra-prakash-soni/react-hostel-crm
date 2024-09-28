@@ -1,0 +1,202 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Dimensions",
+  "records": {
+    "id": "",
+    "name": "Emotional",
+    "description": "Emotional description",
+    "skills": [
+      {
+        "id": "",
+        "name": "Diversity Em",
+        "weight": "0.2",
+        "iscore": true,
+        "isdef": true,
+        "sequence": "1"
+      },
+      {
+        "id": "",
+        "name": "Leadership",
+        "weight": "0.2",
+        "iscore": true,
+        "isdef": true,
+        "sequence": "2"
+      },
+      {
+        "id": "",
+        "name": "Building Relationships",
+        "weight": "0.2",
+        "iscore": true,
+        "isdef": true,
+        "sequence": "3"
+      },
+      {
+        "id": "",
+        "name": "Conflict Resolution",
+        "weight": "0.2",
+        "iscore": false,
+        "isdef": true,
+        "sequence": "4"
+      },
+      {
+        "id": "",
+        "name": "Empathizing",
+        "weight": "0.2",
+        "iscore": false,
+        "isdef": true,
+        "sequence": "5"
+      },
+      {
+        "id": "",
+        "name": "Internet Safety",
+        "weight": "0",
+        "iscore": false,
+        "isdef": false,
+        "sequence": "0"
+      },
+      {
+        "id": "",
+        "name": "Goal Setting",
+        "weight": "0",
+        "iscore": false,
+        "isdef": false,
+        "sequence": "0"
+      },
+      {
+        "id": "",
+        "name": "Responsible Decison-Making",
+        "weight": "0",
+        "iscore": false,
+        "isdef": false,
+        "sequence": "0"
+      },
+      {
+        "id": "",
+        "name": "Stand Up, Take Action",
+        "weight": "0",
+        "iscore": false,
+        "isdef": false,
+        "sequence": "0"
+      }
+    ],
+    "courses": [
+      {
+        "id": "",
+        "name": "Diversity 101",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Diversity",
+        "isreporting": true,
+        "rating": "",
+        "activities": [
+          {
+            "id": "",
+            "name": "Week 1",
+            "isreporting": true,
+            "islocked": false
+          },
+          {
+            "id": "",
+            "name": "Week 2",
+            "isreporting": true,
+            "islocked": true
+          },
+          {
+            "id": "",
+            "name": "Week 3",
+            "isreporting": true,
+            "islocked": true
+          },
+          {
+            "id": "",
+            "name": "Week 4",
+            "isreporting": true,
+            "islocked": true
+          },
+          {
+            "id": "",
+            "name": "Week 5",
+            "isreporting": true,
+            "islocked": true
+          }
+        ]
+      },
+      {
+        "id": "",
+        "name": "Leadership",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Leadership",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Building Relationships",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Building Relationships",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Conflict Resolution",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Conflict Resolution",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Empathizing",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Empathizing",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Internet Safety",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Internet Safety",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Goal Setting",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Goal Setting",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Responsible Decison-Making",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Responsible Decison-Making",
+        "isreporting": true,
+        "rating": ""
+      },
+      {
+        "id": "",
+        "name": "Stand Up, Take Action",
+        "isdef": true,
+        "isactivity": false,
+        "skill": "Stand Up, Take Action",
+        "isreporting": true,
+        "rating": ""
+      }
+    ]
+  },
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 5
+}

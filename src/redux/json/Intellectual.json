@@ -1,0 +1,511 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Dimensions",
+  "records": {
+    "id": "70aa6c7c-278c-4e55-a2ac-5bf7aaecbecb",
+    "name": "Intellectual",
+    "description": "Intellectual description",
+    "pathway": {
+      "id": "",
+      "name": "Pathway-6",
+      "areas": [
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bd2",
+          "name": "Math",
+          "weight": "0.25",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "1",
+          "isEnrolled": true,
+          "pctCompleted": "50",
+          "courses": [
+            {
+              "id": "",
+              "name": "Math",
+              "description": "Math Course Description",
+              "type": "VICKY",
+              "provider": {},
+              "isDef": true,
+              "imageUrl": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": true,
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "name": "Learning Center",
+                  "description": "Learning Center for Math",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                },
+                {
+                  "name": "Link Type",
+                  "description": "Link Type Activity",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "CUSTOM",
+                  "contentType": "LINK",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "3e53edfa-7955-484a-bae7-e14bebc91bd3",
+              "name": "Learn LCM And GCF",
+              "description": "Learn LCM And GCF by Anna whitely",
+              "type": "PROVIDER",
+              "provider": {
+                "id": "",
+                "name": "Anna Whitely",
+                "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+                "rating": "2.5"
+              },
+              "isDef": false,
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": false,
+              "points": 0,
+              "tpoints": 0,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Week 1",
+                  "isreporting": true,
+                  "isLocked": false,
+                  "sequence": 1,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2022"
+                },
+                {
+                  "id": "",
+                  "name": "Week 2",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 2,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2022"
+                },
+                {
+                  "id": "",
+                  "name": "Week 3",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 3,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2022"
+                },
+                {
+                  "id": "",
+                  "name": "Week 4",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 4,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bd7",
+          "name": "English",
+          "weight": "0.25",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "2",
+          "isEnrolled": true,
+          "pctCompleted": "0",
+          "courses": [
+            {
+              "id": "3e53edfa-7955-484a-bae7-e14bebc917d2",
+              "name": "English",
+              "description": "Englist Course Description",
+              "type": "VICKY",
+              "provider": {},
+              "isDef": true,
+              "area": "English",
+              "pathway": "Pathway-6",
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": true,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "name": "Learning Center",
+                  "description": "Learning Center for English",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                },
+                {
+                  "name": "Link Type",
+                  "description": "Link Type Activity",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "CUSTOM",
+                  "contentType": "LINK",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e53e7fa-7955-484a-bae7-e14bebc91bd6",
+          "name": "Science",
+          "weight": "0.17",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "3",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": [
+            {
+              "id": "",
+              "name": "Earth Science",
+              "description": "Earth Science Course Description",
+              "type": "VICKY",
+              "provider": {},
+              "isDef": true,
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": true,
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for Earth Science",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "name": "Physical Science",
+              "description": "Physical Science Course Description",
+              "type": "VICKY",
+              "provider": {},
+              "isDef": true,
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": true,
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for Physical Science",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "name": "Life Science",
+              "description": "Life Science Course Description",
+              "type": "VICKY",
+              "provider": {},
+              "isDef": true,
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": true,
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for Life Science",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-m14bebc91bd0",
+          "name": "Social Studies",
+          "weight": "0.17",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "4",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": [
+            {
+              "id": "",
+              "name": "United States History",
+              "description": "United States History Course Description",
+              "type": "VICKY",
+
+              "isDef": true,
+              "area": "Social Studies",
+              "pathway": "Pathway-6",
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": false,
+              "provider": {},
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for United States History",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "name": "World History (1450-Present)",
+              "description": "World History (1450-Present) Course Description",
+              "type": "VICKY",
+              "isDef": true,
+              "area": "Social Studies",
+              "pathway": "Pathway-6",
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": false,
+              "provider": {},
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for World History (1450-Present)",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "name": "World History Prehistoric-1400",
+              "description": "World History Prehistoric-1400 Course Description",
+              "type": "VICKY",
+              "isDef": true,
+              "area": "Social Studies",
+              "pathway": "Pathway-6",
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": false,
+              "provider": {},
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for World History Prehistoric-1400",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "name": "Economics and Financial Literacy",
+              "description": "Economics and Financial Literacy Course Description",
+              "type": "VICKY",
+              "isDef": true,
+              "area": "Social Studies",
+              "pathway": "Pathway-6",
+              "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+              "level": "6",
+              "ageFrom": "",
+              "ageTo": "",
+              "tags": "",
+              "rating": "",
+              "isEnrolled": false,
+              "provider": {},
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Learning Center",
+                  "description": "Learning Center for Economics and Financial Literacy",
+                  "owner": "",
+                  "isDef": true,
+                  "isreporting": true,
+                  "isLocked": false,
+                  "type": "VICKY",
+                  "contentType": "",
+                  "tags": "#myschooltag",
+                  "rating": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdc",
+          "name": "Music",
+          "weight": "0.08",
+          "isCore": false,
+          "isDef": true,
+          "sequence": "5",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdh",
+          "name": "Art",
+          "weight": "0.08",
+          "isCore": false,
+          "isDef": true,
+          "sequence": "6",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdl",
+          "name": "Technology",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53eufa-7955-484a-bae7-e14bebc91bd0",
+          "name": "Language",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91vd0",
+          "name": "Finance",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        }
+      ]
+    }
+  },
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 5
+}

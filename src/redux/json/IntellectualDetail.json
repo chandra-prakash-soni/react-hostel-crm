@@ -1,0 +1,346 @@
+{
+  "recordId": "8f72c3d6-411d-4554-b1ae-35967cc39696",
+  "success": true,
+  "objectName": "ActivityContent",
+  "records": {
+    "id": "8f72c3d6-411d-4554-b1ae-35967cc39696",
+    "lesson": {
+      "id": "1",
+      "lesson": "lesson for week 1",
+      "application": "Real world application for week 1",
+      "recap": "recap for week number 1",
+      "characters": "characters for week number 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "scenes": [
+        {
+          "id": "1",
+          "title": "Scene Title (Section A) for scene 1",
+          "description": "Scene Description (Section A) for scene 1",
+          "image": "Scene Image (Section B) for scene 1",
+          "nugget": "Scene Nugget for scene 1",
+          "kc": []
+        },
+        {
+          "id": "2",
+          "title": "Scene Title (Section A) for scene 2",
+          "description": "Scene Description (Section A) for scene 2",
+          "image": "Scene Image (Section B) for scene 2",
+          "nugget": "",
+          "kc": [
+            {
+              "question": "Question 1 for scene 2 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                }
+              ]
+            },
+            {
+              "question": "Question 2 for scene 2 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 3 for scene 2 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 4 for scene 2 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 5 for scene 2 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 1 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Scene Title (Section A) for scene 3",
+          "description": "Scene Description (Section A) for scene 3",
+          "image": "Scene Image (Section B) for scene 3",
+          "nugget": "Scene Nugget for scene 3",
+          "kc": []
+        },
+        {
+          "id": "4",
+          "title": "Scene Title (Section A) for scene 4",
+          "description": "Scene Description (Section A) for scene 4",
+          "image": "Scene Image (Section B) for scene 4",
+          "nugget": "Scene Nugget for scene 4",
+          "kc": []
+        },
+        {
+          "id": "5",
+          "title": "Scene Title (Section A) for scene 5",
+          "description": "Scene Description (Section A) for scene 5",
+          "image": "Scene Image (Section B) for scene 5",
+          "nugget": "",
+          "kc": [
+            {
+              "question": "Question 1 for scene 5 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 2 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 2 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 1 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 2 for scene 5 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 3 for scene 5 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            },
+            {
+              "question": "Question 4 for scene 5 for week 1",
+              "points": "10",
+              "invalidattempt": 0,
+              "options": [
+                {
+                  "option": "Option 1 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 1 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 2 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 2 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                },
+                {
+                  "option": "Option 3 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 3 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": true
+                },
+                {
+                  "option": "Option 4 for Question 1 for scene 5 for week 1",
+                  "nugget": "Option 4 Nugget for Question 1 for scene 5 for week 1",
+                  "iscorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

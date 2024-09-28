@@ -1,0 +1,53 @@
+{
+  "recordId": "8f72c3d6-411d-4554-b1ae-35967cc39696",
+  "success": true,
+  "objectName": "ActivityContent",
+  "records": {
+    "id": "8f72c3d6-411d-4554-b1ae-35967cc39696",
+    "activity": {
+      "id": "1141d8df-b21f-45ad-bda0-9ccdf1cdbee6",
+      "name": "Week 1",
+      "owner": null,
+      "isDef": true,
+      "isPrimary": false,
+      "description": "Week 1 Activity",
+      "type": null,
+      "contentType": null,
+      "isLocked": false,
+      "isCourse": null,
+      "activityRatingAverage": 0.0,
+      "totalRatings": 0.0,
+      "activityDetails": [],
+      "sharing": null,
+      "createdDate": "2022-11-14T20:45:45.399+00:00",
+      "updatedDate": "2022-11-14T20:45:45.399+00:00"
+    },
+    "lesson": {
+      "id": "91a51cb4-e8e9-4dd7-a3ba-d0576abda944",
+      "name": "Intersectionality",
+      "description": "Intersectionality description",
+      "isDifficult": false,
+      "isComplex": false,
+      "content": "<p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Calibri, sans-serif;\">Intersectionality explains that we all have different identities that impact the way in which we move through the world. All of these identities interact in unique ways that in part shapes our experiences. </span></p> <p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Calibri, sans-serif;\">Intersectionality describes the process by which various “isms” -heterosexism (belief that being heterosexual is the ‘right’ way to be), racism, sexism, ablism, ethnocentrism (belief that your culture is ‘right’ and others’ are wrong), ageism, classism privileges certain identities and oppresses others. These ‘ism’s are systems of oppression. </span><br></p> <p><span style=\"color: rgb(255,0,0);background-color: transparent;font-size: 12pt;font-family: Calibri, sans-serif;\">History</span><br></p> <p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Calibri, sans-serif;\">Kimberle Crenshaw, a Black Feminist scholar coined the term intersectionality in her 1989 Article: <em>Demarginalizing the Intersection of Race and Sex</em></span>&nbsp;</p>",
+      "lessonResources": [],
+      "needHelp": false,
+      "isCompleted": false,
+      "createdDate": "2022-11-14T20:56:48.473+00:00",
+      "updatedDate": "2022-11-14T20:56:48.473+00:00"
+    },
+    "series": {
+      "id": "f0dcaee1-ac7e-4450-8b72-14338e57cff5",
+      "name": "Week 1 Story",
+      "createdDate": "2022-11-14T21:02:15.034+00:00",
+      "updatedDate": "2022-11-14T21:02:15.034+00:00"
+    },
+    "application": "This is where we can show some message based on\r\nwhat answer the learner is seleting to any of the \r\nquestions below. This tmessage could change on the \r\nclick of every option below. \r\n",
+    "recap": "This is where we can show some message based on\r\nwhat answer the learner is seleting to any of the \r\nquestions below. This tmessage could change on the \r\nclick of every option below. \r\n",
+    "characters": "Characters",
+    "createdDate": "2022-11-14T21:02:33.293+00:00",
+    "updatedDate": "2022-11-14T21:02:33.293+00:00"
+  },
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

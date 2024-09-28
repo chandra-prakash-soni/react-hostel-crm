@@ -1,0 +1,401 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "ActivityContentResponse",
+  "records": [
+    {
+      "id": "",
+      "dimName": "Intellectual",
+      "keyName": "Math",
+      "courseName": "Learn LCM And GCF",
+      "activityName": "Week 1",
+      "sceneName": "",
+      "series": {
+        "id": "",
+        "name": "",
+        "activity_id": "",
+        "recap": "",
+        "charimage": "https://vicky-dev.s3.amazonaws.com/diversity-101.jpg",
+        "chardesc": "Test character description 1",
+        "references": "",
+        "practice": {
+          "id": "",
+          "name": ""
+        },
+        "quiz": {
+          "id": "",
+          "name": ""
+        },
+        "scenes": [
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "https://vicky-dev.s3.amazonaws.com/diversity-101.jpg",
+            "imagedesc": "Image Description 1",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Right Side Panel Title 1",
+            "application": "Right Side Panel Description 1",
+            "kc": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "https://vicky-dev.s3.amazonaws.com/diversity-102.jpg",
+            "imagedesc": "Image Description 2",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Right Side Panel Title 2",
+            "application": "Right Side Panel Description 2",
+            "kc": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "https://vicky-dev.s3.amazonaws.com/diversity-103.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What is intersectionality?",
+                "points": "10",
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Intersectionality is a term used to describe road intersections.",
+                    "nugget": "We're not talking about engineering actual roadways. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Intersectionality is a term used to describe the complex ways in which systems of oppression and privilege interact to influence the lived experiences of individuals. This theory states that we all have different identities, some of which are more privileged and others more oppressed. The unique combination of these identities impacts how we move through the world. Well done! #correct",
+                    "nugget": "This is correct! The Theory of Intersectionality seeks to explain how we all have various identities that interact with one another to influence the way in which we move through the world.",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Intersectionality is a term used to describe how one identity impacts another.",
+                    "nugget": "Nice try here! This is technically correct, however, it is only one part of this theory. There is another answer that better describes the entire Theory of Intersectionality. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "Who conceptualized the Theory of Intersectionality?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Kimberle Crenshaw #correct",
+                    "nugget": "Kimberle Crenshaw first coined the term, in her 1989 article, Demarginalizing the Intersection of Race and Sex #correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Bell Hooks",
+                    "nugget": "Bell hooks is a feminist scholar who also writes on topics including intersectionality, but she is not credited with coining the term Intersectionality. You might want to check out one of her many books, Feminism is For Everybody: Passionate Politics. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Brene Brown",
+                    "nugget": "Brene Brown is a researcher and author who studies and writes about courage, shame, vulnerability, and empathy. You might be interested in her book, Atlas of the Heart, which describes various difficult emotions we all experience. Try again!",
+                    "iscorrect": true,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "question": "Where do systems of oppression, power and privilege originate?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "In the individual",
+                    "nugget": "Although we all have different identities that interact in unique ways, the reason certain identities are privileged while others are oppressed is due to larger norms within our culture or systems of power that create privilege or oppression. These larger systems imbue some identities with more privilege and others with more oppression. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "In the physical environment",
+                    "nugget": "Intersectionality describes forces within social contexts that are co-created by social norms. Although these forces will affect how people have access to resources in their physical environment, these forces are socially created. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "In the social environment",
+                    "nugget": "Systems of oppression, privilege and power that privilege certain identities and oppress others are created within the social environment. For instance, we may think more highly of certain types of identities over others due to our socialization or the society around us as opposed to any innate or actual differences between identities. No identity is inherently better or worse, though research has demonstrated that people hold prejudices against particular identities.#correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "",
+            "imagedesc": "Image Description 4",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Right Side Panel Title 4",
+            "application": "Right Side Panel Description 4",
+            "kc": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "https://vicky-dev.s3.amazonaws.com/diversity-103.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What is intersectionality?",
+                "points": "10",
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Intersectionality is a term used to describe road intersections.",
+                    "nugget": "We're not talking about engineering actual roadways. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Intersectionality is a term used to describe the complex ways in which systems of oppression and privilege interact to influence the lived experiences of individuals. This theory states that we all have different identities, some of which are more privileged and others more oppressed. The unique combination of these identities impacts how we move through the world. Well done! #correct",
+                    "nugget": "This is correct! The Theory of Intersectionality seeks to explain how we all have various identities that interact with one another to influence the way in which we move through the world.",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Intersectionality is a term used to describe how one identity impacts another.",
+                    "nugget": "Nice try here! This is technically correct, however, it is only one part of this theory. There is another answer that better describes the entire Theory of Intersectionality. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "Who conceptualized the Theory of Intersectionality?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Kimberle Crenshaw #correct",
+                    "nugget": "Kimberle Crenshaw first coined the term, in her 1989 article, Demarginalizing the Intersection of Race and Sex #correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Bell Hooks",
+                    "nugget": "Bell hooks is a feminist scholar who also writes on topics including intersectionality, but she is not credited with coining the term Intersectionality. You might want to check out one of her many books, Feminism is For Everybody: Passionate Politics. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Brene Brown",
+                    "nugget": "Brene Brown is a researcher and author who studies and writes about courage, shame, vulnerability, and empathy. You might be interested in her book, Atlas of the Heart, which describes various difficult emotions we all experience. Try again!",
+                    "iscorrect": true,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "question": "Where do systems of oppression, power and privilege originate?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "In the individual",
+                    "nugget": "Although we all have different identities that interact in unique ways, the reason certain identities are privileged while others are oppressed is due to larger norms within our culture or systems of power that create privilege or oppression. These larger systems imbue some identities with more privilege and others with more oppression. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "In the physical environment",
+                    "nugget": "Intersectionality describes forces within social contexts that are co-created by social norms. Although these forces will affect how people have access to resources in their physical environment, these forces are socially created. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "In the social environment",
+                    "nugget": "Systems of oppression, privilege and power that privilege certain identities and oppress others are created within the social environment. For instance, we may think more highly of certain types of identities over others due to our socialization or the society around us as opposed to any innate or actual differences between identities. No identity is inherently better or worse, though research has demonstrated that people hold prejudices against particular identities.#correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "",
+            "imagedesc": "Image Description 5",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Right Side Panel Title 5",
+            "application": "Right Side Panel Description 5",
+            "kc": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "sequence": "",
+            "points": "",
+            "imageurl": "https://vicky-dev.s3.amazonaws.com/diversity-103.jpg",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What is intersectionality?",
+                "points": "10",
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Intersectionality is a term used to describe road intersections.",
+                    "nugget": "We're not talking about engineering actual roadways. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Intersectionality is a term used to describe the complex ways in which systems of oppression and privilege interact to influence the lived experiences of individuals. This theory states that we all have different identities, some of which are more privileged and others more oppressed. The unique combination of these identities impacts how we move through the world. Well done! #correct",
+                    "nugget": "This is correct! The Theory of Intersectionality seeks to explain how we all have various identities that interact with one another to influence the way in which we move through the world.",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Intersectionality is a term used to describe how one identity impacts another.",
+                    "nugget": "Nice try here! This is technically correct, however, it is only one part of this theory. There is another answer that better describes the entire Theory of Intersectionality. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "Who conceptualized the Theory of Intersectionality?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Kimberle Crenshaw #correct",
+                    "nugget": "Kimberle Crenshaw first coined the term, in her 1989 article, Demarginalizing the Intersection of Race and Sex #correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Bell Hooks",
+                    "nugget": "Bell hooks is a feminist scholar who also writes on topics including intersectionality, but she is not credited with coining the term Intersectionality. You might want to check out one of her many books, Feminism is For Everybody: Passionate Politics. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Brene Brown",
+                    "nugget": "Brene Brown is a researcher and author who studies and writes about courage, shame, vulnerability, and empathy. You might be interested in her book, Atlas of the Heart, which describes various difficult emotions we all experience. Try again!",
+                    "iscorrect": true,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "question": "Where do systems of oppression, power and privilege originate?",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "In the individual",
+                    "nugget": "Although we all have different identities that interact in unique ways, the reason certain identities are privileged while others are oppressed is due to larger norms within our culture or systems of power that create privilege or oppression. These larger systems imbue some identities with more privilege and others with more oppression. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "In the physical environment",
+                    "nugget": "Intersectionality describes forces within social contexts that are co-created by social norms. Although these forces will affect how people have access to resources in their physical environment, these forces are socially created. Try again!",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "In the social environment",
+                    "nugget": "Systems of oppression, privilege and power that privilege certain identities and oppress others are created within the social environment. For instance, we may think more highly of certain types of identities over others due to our socialization or the society around us as opposed to any innate or actual differences between identities. No identity is inherently better or worse, though research has demonstrated that people hold prejudices against particular identities.#correct",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

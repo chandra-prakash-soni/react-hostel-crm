@@ -1,0 +1,185 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Dimensions",
+  "records": {
+    "id": "",
+    "name": "Social",
+    "description": "Social description",
+    "pathway": {
+      "id": "",
+      "name": "Pathway-6",
+      "skills": [
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bd2",
+          "name": "Diversity",
+          "weight": "0.25",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "1",
+          "isEnrolled": true,
+          "pctCompleted": "50",
+          "courses": [
+            {
+              "id": "",
+              "name": "Intersectionality",
+              "isDef": true,
+              "isreporting": false,
+              "rating": "3.5",
+              "isEnrolled": false,
+              "type": "PROVIDER",
+              "level": "6",
+              "sequence": 1,
+              "points": 20,
+              "tpoints": 20,
+              "description": "We live in an increasingly diverse world! Does your learner have the social-emotional skills to engage in it? There are so many topics related to diversity; where does one start to learn? This course is designed to help your child better understand diversity and themselves as they gain the interpersonal skills and confidence to build diverse relationships, self-awareness, emotional intelligence, and self-care.We'll start with the concept of intersectionality. That’s a big word!  Through an interactive story, your child will unpack what this term means and how it plays out in real life. They will also gain valuable skills to practice social justice interventions and better engage in a diverse world.",
+              "provider": {
+                "id": "",
+                "name": "Anna Whitely",
+                "image": "http://localhost:3000/static/media/M2.45dbb05f081b89da4e90.jpg",
+                "rating": "4.6"
+              },
+              "activities": [
+                {
+                  "id": "",
+                  "name": "Overview of Intersectionality",
+                  "isreporting": true,
+                  "isLocked": false,
+                  "sequence": 1,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2020",
+                  "series": {
+                    "recap": "",
+                    "charImage": "https://vicky-dev.s3.amazonaws.com/diversity-101.jpg",
+                    "charDesc": "Engaging character description...",
+                    "references": "This",
+                    "practice": {},
+                    "quiz": {}
+                  }
+                },
+                {
+                  "id": "",
+                  "name": "Intersectionality in Action",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 1,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2020"
+                },
+                {
+                  "id": "",
+                  "name": "Prejudice and Microaggressions",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 1,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2020"
+                },
+                {
+                  "id": "",
+                  "name": "Making Change",
+                  "isreporting": true,
+                  "isLocked": true,
+                  "sequence": 1,
+                  "daysLeft": "2",
+                  "unlockDate": "12/12/2020"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bd3",
+          "name": "Leadership",
+          "weight": "0.25",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "2",
+          "isEnrolled": true,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bd6",
+          "name": "Building Relationships",
+          "weight": "0.17",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "3",
+          "isEnrolled": true,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-m14bebc91bd0",
+          "name": "Conflict Resolution",
+          "weight": "0.17",
+          "isCore": true,
+          "isDef": true,
+          "sequence": "4",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdc",
+          "name": "Empathizing",
+          "weight": "0.08",
+          "isCore": false,
+          "isDef": true,
+          "sequence": "5",
+          "isEnrolled": true,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdh",
+          "name": "Internet Safety",
+          "weight": "0.08",
+          "isCore": false,
+          "isDef": true,
+          "sequence": "6",
+          "isEnrolled": true,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91bdl",
+          "name": "Goal Setting",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53eufa-7955-484a-bae7-e14bebc91bd0",
+          "name": "Responsible Decison-Making",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        },
+        {
+          "id": "3e53edfa-7955-484a-bae7-e14bebc91vd0",
+          "name": "Stand Up, Take Action",
+          "weight": "0",
+          "isCore": false,
+          "isDef": false,
+          "sequence": "",
+          "isEnrolled": false,
+          "pctCompleted": "0",
+          "courses": []
+        }
+      ]
+    }
+  },
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 5
+}

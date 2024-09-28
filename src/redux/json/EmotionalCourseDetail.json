@@ -1,0 +1,262 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "ActivityContentResponse",
+  "records": [
+    {
+      "id": "",
+      "dimName": "Emotional",
+      "keyName": "Stress Management",
+      "courseName": "What Color Is Your Emotion?",
+      "activityName": "Introducing Emotion Zones",
+      "sceneName": "Scene First",
+      "series": {
+        "id": "",
+        "name": "",
+        "activity_id": "",
+        "recap": "",
+        "charImage": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_02_WEB.png",
+        "chardesc": "<p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Carlo is a 7th grader.  Most often, he keeps his cool and goes with the flow.  Carlo’s friends would describe him as pretty happy, easy going and the calm one of the bunch.  When it comes to feelings, Carlo is usually in the green zone. </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Max is a 7th grader.  He knows how to be a great friend.  Max feels deeply and his friends like that he always has their back when they feel down in the dumps.  Max is good at listening and showing empathy.    When Max gets sad or disappointed he feels it greatly and isn’t afraid to cry or show he’s feeling blue.  </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Lucy is a 7th grader.  She’s known for having a lot of energy.  Lucy is peppy, upbeat and loves to have fun.  Her friends like her positive energy and sometimes think she’s shines brightly like a bolt of lightening.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Anna is a 7th grader.  She has a lot of confidence and knows how to assert herself. Her friends admire how she stands up for herself and others.  Sometimes she can get fiery and her temper flares, but she likes to be bold.</span><br>&nbsp;</p>",
+        "references": "This",
+        "practice": {},
+        "quiz": {},
+        "scenes": [
+          {
+            "id": "1",
+            "name": "Emotion Zones: A Rainbow Of Feelings",
+            "sequence": "1",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_01_WEBV2.png",
+            "imagedesc": "Image Description 1",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Waiting For The Grades",
+            "application": "<p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>It’s the 7th grade lunch hour.  Classmates are talking about getting their science test results after lunch.  It’s sort of a big deal because kids who did well will be rewarded with a trip to the planetarium.  Kids who scored low will have to stay back at school and do a special project.  Students are buzzing with predictions on how they did.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Carlo, Max, Lucy, and Anna all have different feelings about how they think they did as they talk about getting their test results back.  </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Carlo is feeling calm and cool like a zen green garden.  Max, feels sad like he’s blue.  Lucy is excited and is bright like a yellow sun.  Anna is angry like a red burning fire.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Carlo is a 7th grader.  Most often he keeps his cool and goes with the flow.  Carlo’s friends would describe him as pretty happy, easy going and the calm one of the bunch.  When it comes to feelings Carlo is usually in the green zone. </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Max is a 7th grader.  He knows how to be a great friend.  Max feels deeply and his friends like that he always has their back when they feel down in the dumps.  Max is good at listening and showing empathy.    When Max gets sad or disappointed you’ll find him inthe blue zone.  He feels it greatly and isn’t afraid to cry or show he’s feeling blue.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Lucy is a 7th grader.  She’s known for having a lot of energy.  Lucy is peppy, upbeat, and loves to have fun.  Her friends like her positive energy.  With all of her excitement she brings you’ll probably see her in the yellow zone.</span><br>&nbsp;</p>",
+            "kc": []
+          },
+          {
+            "id": "2",
+            "name": "Feelings In Actions",
+            "sequence": "2",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_02_WEB.png",
+            "imagedesc": "Image Description 2",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Test Results Time",
+            "application": "<p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Did you notice how Carlo, Max, Lucy, and Anna matched colors to their feelings?  The colors and feelings they identified are called emotion zones.  </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Zones help us identify our emotions clearly because sometimes it's difficult to see how we feel.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>What different emotions did you have today?  </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Can you assign a color to all of them?  What actions did you do in each zone?</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>If you’re in the blue zone maybe you cried, moped, or hung your head down.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>If you were in the green zone maybe you smiled, sat calmly, or acted peacefully.  </span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>If you were in the yellow zone maybe you jumped around, moved fast or your heart raced.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>If you were red zone maybe you stomped, punched, or screamed.</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Now go back to the feelings you had today.  Can see the colors you felt and the actions you showed?</span><br>&nbsp;</p>",
+            "kc": []
+          },
+          {
+            "id": "3",
+            "name": "Chaotic classroom",
+            "sequence": "3",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_03_WEB.png",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Dysregulation:  Out of control and off balance",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "If you have a dysregulated mind what might that look or sound like?",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Having calm thoughts",
+                    "nugget": "If you\u2019re dysregulated you probably won\u2019t be calm",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Yelling",
+                    "nugget": "If you\u2019re dysregulated you might feel like yelling",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Keep your thoughts to yourself",
+                    "nugget": "If you\u2019re dysregulated you might shut down and not want to talk.\u00a0 Keeping quiet can also mean you feel regulated.",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "If you have a dysregulated body what might that look or sound like?",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "If you are feeling dysregulated with your body it might look like dancing around",
+                    "nugget": "Dancing can be a regulated response but also get dysregulated",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "If you are feeling dysregulated with your body it might look like hitting something",
+                    "nugget": "When you\u2019re dysregulated your anger may make you hit something",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "If you are feeling dysregulated with your body it might sound like clapping and cheering",
+                    "nugget": "If you\u2019re dysregulated you probably won\u2019t happy actions.",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "question": "If you have dysregulated emotions what might that look or sound like?",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "If you are feeling dysregulated with your emotions it might look like turning red with anger",
+                    "nugget": "If you\u2019re dysregulated you might feel like you\u2019re burning up with anger",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "If you are feeling dysregulated with your emotions it might sound like laughing",
+                    "nugget": "Laughter can be a dysregulated nervous response or a regulated happy response",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "If you are feeling dysregulated with your emotions it might look like giving hugs",
+                    "nugget": "Usually if you\u2019re dysregulated you won\u2019t feel like showing affection",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "name": "Regaining Control",
+            "sequence": "4",
+            "points": "10",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_04_WEB.png",
+            "imagedesc": "Image Description 4",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "A calmer classroom",
+            "application": "<p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>What does it take to have regulation?</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>To have balance and be in control of your mind it needs:</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Positive thoughts</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Thinking strategies</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Problem-solving skills</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Confidence</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>To have balance and be in control of your body it needs:</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Food</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Sleep or rest</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Movement</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Relaxation</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Take care of sensory needs</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>To have balance and be in control of your emotions it needs:</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Calming skills</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Support from family or friends</span></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>Talking about feelings</span><br></p><p><span style='color: rgb(0,0,0);background-color: transparent;font-size: 10pt;font-family: Arial;'>We are all capable of having emotional regulation, but it’s also something we need to work on every day because our emotions can change.  To help you make it become more of a habit select one key action from the mind, body, and emotions areas and try doing it for a day.  Write down what you will do.  At the end of the day rate our see if you felt more balance and control.</span><br>&nbsp;</p>",
+            "kc": []
+          },
+          {
+            "id": "5",
+            "name": "Try it out yourself!",
+            "sequence": "5",
+            "points": "",
+            "imageurl": "https://vickyknows.s3.amazonaws.com/scenes/whatcolorisyouremotion_activity1_Upwork_EmotionalSelfCare2_05_WEB.png",
+            "imagedesc": "Image Description 3",
+            "videourl": "",
+            "videodesc": "",
+            "rptitle": "Scene with a life application exercise",
+            "application": "",
+            "kc": [
+              {
+                "sequence": 1,
+                "question": "What color zones do you find yourself in when you\u2019re dysregulated?\u00a0 Click all that apply",
+                "type": "radio",
+                "points": "10",
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Blue Zone",
+                    "nugget": "",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Yellow Zone",
+                    "nugget": "",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Red Zone",
+                    "nugget": "",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 2,
+                "question": "To get to the green zone what do you think would help you the most?\u00a0 Click all that apply.",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": [
+                  {
+                    "sequence": 1,
+                    "option": "Take a deep breath and think a positive thought",
+                    "nugget": "",
+                    "iscorrect": true,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 2,
+                    "option": "Take a break and move around to burn off energy",
+                    "nugget": "",
+                    "iscorrect": false,
+                    "attempted": false
+                  },
+                  {
+                    "sequence": 3,
+                    "option": "Find a friend or adult to talk about how you’re feeling",
+                    "nugget": "",
+                    "iscorrect": false,
+                    "attempted": false
+                  }
+                ]
+              },
+              {
+                "sequence": 3,
+                "question": "Write down 3 things you will try for the next week.",
+                "type": "radio",
+                "points": 10,
+                "attempted": false,
+                "invelidattempt": 0,
+                "options": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "statusCode": 200,
+  "message": " Record(s) Found",
+  "recordsCount": 1
+}

@@ -1,0 +1,40 @@
+{
+  "recordId": null,
+  "success": true,
+  "objectName": "Coming Courses",
+  "records": [
+    {
+      "Id": "",
+      "name": "FearLESS: Building Brave Young Hearts",
+      "releaseDate": "November 2023"
+    },
+    {
+      "Id": "",
+      "name": "Pranayama: Awakening Super Energy in Body and Mind",
+      "releaseDate": "November 2023"
+    },
+    {
+      "Id": "",
+      "name": "Collaboration Quest",
+      "releaseDate": "November 2023"
+    },
+    {
+      "Id": "",
+      "name": "Diversity Dynamics",
+      "releaseDate": "December 2023"
+    },
+    {
+      "Id": "",
+      "name": "Empathy Essentials",
+      "releaseDate": "December 2023"
+    },
+    {
+      "Id": "",
+      "name": "Wise Choices 101: Navigate, Decide, Thrive",
+      "releaseDate": "December 2023"
+    }
+  ],
+  "statusCode": 200,
+  "message": "",
+  "recordsCount": 1
+}
