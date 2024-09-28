@@ -20,7 +20,7 @@ const RevenueCard = ({ data, title }) => {
         <h5 className="card-title m-0 me-2">
           Previous Payment Pending {data && "[" + data?.length + "]"}
         </h5>
-        {/* <div className="dropdown">
+        <div className="dropdown">
           <button
             className="btn p-0"
             type="button"
@@ -45,7 +45,7 @@ const RevenueCard = ({ data, title }) => {
               Share
             </a>
           </div>
-        </div> */}
+        </div>
       </div>
       <div className="table-responsive">
         <table className="table table-borderless border-top">
@@ -75,9 +75,9 @@ const RevenueCard = ({ data, title }) => {
                   <td>
                     <div className="d-flex flex-column">
                       <p className="mb-0 fw-medium">{val.pending_amount}</p>
-                      {/* <small className="text-muted text-nowrap">
+                      <small className="text-muted text-nowrap">
                         17 Mar 2022
-                      </small> */}
+                      </small>
                     </div>
                   </td>
                   <td>
