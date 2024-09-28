@@ -76,7 +76,7 @@ const RevenueCard = ({ data, title }) => {
                     <div className="d-flex flex-column">
                       <p className="mb-0 fw-medium">{val.pending_amount}</p>
                       <small className="text-muted text-nowrap">
-                        17 Mar 2022
+                        17 Mar 2023
                       </small>
                     </div>
                   </td>
