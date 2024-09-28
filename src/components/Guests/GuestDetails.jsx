@@ -10,7 +10,6 @@ import { getFormatDt } from "../../utils/helper";
 const GuestDetails = () => {
   const dispatch = useDispatch();
   const history = useHistory();
-  const { id } = useParams();
 
   const { guestObj } = useSelector((state) => state.collections);
   useEffect(() => {
